@@ -24,15 +24,14 @@ this project
 
 - [Node.js v6+ LTS and npm (comes with Node)](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
+- [Ganache](https://truffleframework.com/ganache)
+- [MetaMask](https://metamask.io)
 
 Once these are installed open terminal and run the following on your command line to install Truffle:
 
 >npm install -g truffle
 
-#to verify that Truffle has been installed properly type [truffle version] on the terminals command line.
-
-- [Ganache](https://truffleframework.com/ganache)
-- [MetaMask](https://metamask.io)
+To verify that Truffle has been installed properly type `truffle version` on the terminals command line.
 
 ### Installing / Running the Tests
 
