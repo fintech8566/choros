@@ -16,7 +16,7 @@ A blockchain solution for room reservations.
 ## Appearance
 
 <h3 align="center">
-  <img src="src/images/screen1.jpeg" alt="Appearance" />
+  <img src="src/images/screen2.jpeg" alt="Appearance" />
 </h3>
 
 
