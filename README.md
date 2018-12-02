@@ -22,27 +22,17 @@ These instructions will get you a copy of the project up and running on your loc
 You will need the following technical requirements before you are able to run
 this project
 
-```
-Node.js v6+ LTS and npm (comes with Node)
-[https://nodejs.org/en/]
-```
-```
-Git
-[https://git-scm.com/]
-```
+- [Node.js v6+ LTS and npm (comes with Node)](https://nodejs.org/en/)
+- [Git](https://git-scm.com/)
+
 Once these are installed open terminal and run the following on your command line to install Truffle:
+
 >npm install -g truffle
 
 #to verify that Truffle has been installed properly type [truffle version] on the terminals command line.
 
-```
-Ganache
-[https://truffleframework.com/ganache]
-```
-```
-MetaMask
-[https://metamask.io]
-```
+- [Ganache](https://truffleframework.com/ganache)
+- [MetaMask](https://metamask.io)
 
 ### Installing / Running the Tests
 
