@@ -1,3 +1,17 @@
+
+-------
+<p align="center">
+    <a href="##appearance">Appearance</a> &bull;
+    <a href="##getting started">Getting Started</a> &bull;
+    <a href="##using the dapp">Using the DApp</a> &bull;
+    <a href="##disclaimers">Disclaimers</a> &bull;
+    <a href="##authors">Authors</a> &bull;
+    <a href="##acknowledgements">Acknowledgements</a>
+</p>
+-------
+
+
+
 ```
                                                 +++    
                                              ++
@@ -12,12 +26,15 @@
                        ++++++++  ++    ++  ++++++++  ++     ++  ++++++++  ++++++
 ```
 
+-------
+<p id="appearance"></p>
+-------
+
+## Appearance
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
 
 ### Prerequisites
 
@@ -46,7 +63,7 @@ MetaMask
 [https://metamask.io]
 ```
 
-## Installing / Running the Tests
+### Installing / Running the Tests
 
 Now that your system has been prepped we now have to compile and migrate the smart contract contained within the downloaded file to Ganache so you can run it.
 
@@ -110,7 +127,7 @@ If all the tests run smoothly, as they should, you should see something similar 
     3 passing (1s)
 ```
 
-## Configuring MetaMask 
+### Configuring MetaMask 
 
 Once installed, you'll see the MetaMask icon next to your address bar in your browser (Chrome). Click on the icon and set up the account. Click on the menu that shows "Main Network" and select Custom RPC. In the box titled "New RPC URL" enter `http://127.0.0.1:8566` and click Save. The network name at the top will change to say "Private Network". Click on the arrow next to "Settings" to leave this page and return to the Accounts page. Import an account using the private key of one of the accounts running in Ganache (other than 
 account with index 0).
