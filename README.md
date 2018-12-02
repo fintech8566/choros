@@ -11,7 +11,6 @@
     <a href="#Authors">Authors</a> &bull;
     <a href="#Acknowledgements">Acknowledgements</a>
 </p>
--------
 
 ## Appearance
 
