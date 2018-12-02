@@ -10,7 +10,7 @@
 
 # chóros 
 
-A blockchain solution for room reservation. 
+A blockchain solution for room reservations. 
 
 ## Appearance
 
