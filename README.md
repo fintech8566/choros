@@ -12,6 +12,7 @@
 
 A blockchain solution for room reservations. 
 
+
 ## Appearance
 
 <h3 align="center">
@@ -22,6 +23,7 @@ A blockchain solution for room reservations.
 ## Installation
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
 
 ### Prerequisites
 
@@ -40,6 +42,7 @@ npm install -g truffle
 ```
 
 To verify that Truffle has been installed properly type `truffle version` on the terminal's command line.
+
 
 ### Compiling, Migrating & Running the Tests
 
@@ -112,12 +115,14 @@ TestReservation
 3 passing (1s)
 ```
 
+
 ### Configuring MetaMask 
 
 Once installed, you'll see the MetaMask icon next to your address bar in your browser (Chrome). Click on the icon and set up the account. Click on the menu that shows "Main Network" and select Custom RPC. In the box titled "New RPC URL" enter `http://127.0.0.1:8566` and click Save. The network name at the top will change to say "Private Network". Click on the arrow next to "Settings" to leave this page and return to the Accounts page. Import an account using the private key of one of the accounts running in Ganache (other than 
 account with index 0).
 
 Each account created by Ganache is given 100 ether. It's slightly less on the account with index 0 because some gas was used when the contract was deployed and when the tests were run.
+
 
 ## Launch
 
