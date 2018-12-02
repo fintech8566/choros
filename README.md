@@ -1,34 +1,19 @@
+# Chóros
 
--------
 <p align="center">
     <a href="#Appearance">Appearance</a> &bull;
-    <a href="#Getting Started">Getting Started</a> &bull;
-    <a href="#Using the DApp">Using the DApp</a> &bull;
+    <a href="#Installation">Installation</a> &bull;
+    <a href="#Launch">Launch</a> &bull;
     <a href="#Disclaimers">Disclaimers</a> &bull;
     <a href="#Authors">Authors</a> &bull;
     <a href="#Acknowledgements">Acknowledgements</a>
 </p>
--------
-
-
-
-```
-                                                +++    
-                                             ++
-                                            +
-                       ++++++++  ++    ++  ++++++++  +++++++    ++++++++  ++++++
-                       ++++++++  ++    ++  ++++++++  ++    ++   ++++++++  ++++++
-                       ++        ++    ++  ++    ++  ++    ++   ++    ++  ++
-                       ++        ++++++++  ++    ++  +++++++    ++    ++  ++++++
-                       ++        ++++++++  ++    ++  ++++       ++    ++  ++++++
-                       ++        ++    ++  ++    ++  ++ ++      ++    ++      ++
-                       ++++++++  ++    ++  ++++++++  ++   ++    ++++++++  ++++++
-                       ++++++++  ++    ++  ++++++++  ++     ++  ++++++++  ++++++
-```
 
 ## Appearance
 
-## Getting Started
+
+
+## Installation
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -130,7 +115,7 @@ account with index 0).
 
 Each account created by Ganache is given 100 ether. It's slightly less on the account with index 0 because some gas was used when the contract was deployed and when the tests were run.
 
-## Using the DApp
+## Launch
 
 To start the local web server and interact with the application, (keeping in mind that the downloaded file still needs to be selected within terminal) type:
 
