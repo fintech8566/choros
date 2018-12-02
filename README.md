@@ -1,8 +1,3 @@
-# chóros
-
-[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/thiagolioy/marvelapp/blob/master/LICENSE) 
-
--------
 <p align="center">
     <a href="#Appearance">Appearance</a> &bull;
     <a href="#Installation">Installation</a> &bull;
@@ -11,6 +6,8 @@
     <a href="#Authors">Authors</a> &bull;
     <a href="#Acknowledgements">Acknowledgements</a>
 </p>
+
+# chóros
 
 ## Appearance
 
