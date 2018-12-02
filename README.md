@@ -1,4 +1,4 @@
-# Chóros
+# chóros
 
 <p align="center">
     <a href="#Appearance">Appearance</a> &bull;
