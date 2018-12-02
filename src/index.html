@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Ch&#243;ros</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+    body > div
+    {
+                transition:all 0.3s ease;
+    }
+    </style>
+
+  </head>
+  <body>
+    <div class="MainContainer">
+
+
+      <header class="ParallaxContainer display-container grayscale-min" id="home">
+
+      <div class="display-bottom" style="padding:48px">
+          <p><a href="#booking" class="i-button black large">Book Now</a></p>
+      </div> 
+
+      <div class="display-top text-white" style="padding:40px">
+      <h1>
+        ch&#243;ros
+      </h1>
+      </div> 
+    </header>
+
+      <div class="ContentContainer">
+        <div class="Content">
+          <!-- Website Pic-->
+          <div class="container-fluid" id ="booking">
+
+            <h6>My Search</h6>
+            <input type="text" id="myInput" onkeyup="myFunction()" placeholder= "Search for rooms..." title="Type in a room">
+
+            <div id="roomsRow" class="row"></div>
+          </div>
+
+              <script>
+              function myFunction() {
+                  var input, filter, ul, li, b, i, txtValue;
+                  input = document.getElementById("myInput");
+                  filter = input.value.toUpperCase();
+                  ul = document.getElementById("roomsRow");
+                  li = ul.getElementsByTagName("li");
+                  for (i = 0; i < li.length; i++) {
+                      b = li[i].getElementsByTagName("b")[0];
+                      txtValue = b.textContent || b.innerText;
+                      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                          li[i].style.display = "";
+                      } else {
+                          li[i].style.display = "none";
+                      }
+                  }
+              }
+              </script>
+          <!-- Pics Sec-->
+          <div id="roomTemplate" style="display: none;">
+
+            <div class="row">
+              <li><b>
+              <div class="panel panel-room">
+
+                <div class="panel-body" style = "text-align: center;">
+
+                  <div class="col-sm-2 fade2">
+                    <div style="height:8px;"><br></div>
+                      <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" style="width: 75px;" src="https://www.cmu.edu/tepper/why-tepper/assets/images/facts-figures-1400x700.jpg" data-holder-rendered="true">   
+                  </div>
+
+                  <div class="col-sm-2">
+                    <div style="height:15px;"><br></div>
+                  <strong>Room</strong>: <span class="panel-title notbold">Room</span><br/>
+                  </div>
+
+                  <div class="col-sm-2">
+                    <div style="height:15px;"><br></div>
+                  <strong>Floor</strong>: <span class="room-floor notbold"
+                  >Floor</span><br/>
+                  </div>
+
+                  <div class="col-sm-2">
+                    <div style="height:15px;"><br></div>
+                  <strong>Capacity</strong>: <span class="room-capacity notbold">Capacity</span><br/>
+                  </div>
+
+                  <div class="col-sm-2">
+                    <div style="height:15px;"><br></div>
+                  <strong>Time</strong>: <span class="room-time notbold"
+                  >5-6 PM</span><br/><br/>
+                  </div>
+
+                  <div class="col-sm-2" >
+                  <div style = "text-align: center;">
+                    <div style="height:15px;"><br></div>
+                    <button class="btn btn-reserve light-grey" type="button" data-id="0">Reserve</button>
+                  </div> 
+                  </div> 
+                    
+                  <div class="col-sm-2">
+                  <div style = "text-align: center;">
+                      <div style="height:15px;"><br></div>
+                      <a class="output1 btn light-grey" href="https://www.google.com/" target="_blank">Add to Calendar</a>
+                  </div>
+                  </div> 
+
+                </div>
+              </div>
+              <li><b>
+            </div>
+          </div>
+
+        <footer class="icenter">
+          <a href="#home" class="i-button light-grey">To the top</a>
+        </footer>
+
+          <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+          <!-- Include all compiled plugins (below), or include individual files as needed -->
+          <script src="js/bootstrap.min.js"></script>
+          <script src="js/web3.min.js"></script>
+          <script src="js/truffle-contract.js"></script>
+          <script src="js/app.js"></script>
+
+       </div>
+    </div>
+  <br/><br/>
+  </body>
+
+
+</html>
