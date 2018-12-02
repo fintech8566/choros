@@ -7,7 +7,10 @@
     <a href="#Acknowledgements">Acknowledgements</a>
 </p>
 
-# chóros
+
+# chóros 
+
+A blockchain solution for room reservation. 
 
 ## Appearance
 
