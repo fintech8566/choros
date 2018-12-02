@@ -11,6 +11,9 @@
 
 ## Appearance
 
+<h3 align="center">
+  <img src="src/images/screen.jpeg" alt="Appearance" />
+</h3>
 
 
 ## Installation
