@@ -15,7 +15,7 @@
 ## Appearance
 
 <h3 align="center">
-  <img src="src/images/screen.jpeg" alt="Appearance" />
+  <img src="src/images/screen1.jpeg" alt="Appearance" />
 </h3>
 
 
