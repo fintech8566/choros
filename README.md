@@ -1,12 +1,12 @@
 
 -------
 <p align="center">
-    <a href="##appearance">Appearance</a> &bull;
-    <a href="##getting started">Getting Started</a> &bull;
-    <a href="##using the dapp">Using the DApp</a> &bull;
-    <a href="##disclaimers">Disclaimers</a> &bull;
-    <a href="##authors">Authors</a> &bull;
-    <a href="##acknowledgements">Acknowledgements</a>
+    <a href="#Appearance">Appearance</a> &bull;
+    <a href="#Getting Started">Getting Started</a> &bull;
+    <a href="#Using the DApp">Using the DApp</a> &bull;
+    <a href="#Disclaimers">Disclaimers</a> &bull;
+    <a href="#Authors">Authors</a> &bull;
+    <a href="#Acknowledgements">Acknowledgements</a>
 </p>
 -------
 
@@ -25,10 +25,6 @@
                        ++++++++  ++    ++  ++++++++  ++   ++    ++++++++  ++++++
                        ++++++++  ++    ++  ++++++++  ++     ++  ++++++++  ++++++
 ```
-
--------
-<p id="appearance"></p>
--------
 
 ## Appearance
 
