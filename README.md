@@ -157,3 +157,5 @@ This is just a smaller test version of a larger scale project we are looking to 
 * Big thanks to our professor Nikhil Malik for all the support and giving us theoroance to take this project to the next level.
 * The inspiration for this project came from a very outdated system our campus uses called 25Live for room reservations. It's slow, clunky and inefficient. With Blockchain, we were able to completely turn this around.
 * We used the [Ethereum Pet Shop](https://truffleframework.com/tutorials/pet-shop) tutorial created by Truffle to build this dApp.
+
+[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fintech8566/choros/blob/master/LICENSE)
