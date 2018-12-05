@@ -1,0 +1,8164 @@
+[
+
+ {
+  "id":0,
+  "name":"BH 140C",
+  "picture":"images/3.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":1,
+  "name":"BH 140D",
+  "picture":"images/5.jpeg",
+  "capacity":"10",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":2,
+  "name":"BH 140E",
+  "picture":"images/2.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":3,
+  "name":"BH 140F",
+  "picture":"images/3.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":4,
+  "name":"BH 235A",
+  "picture":"images/4.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":5,
+  "name":"BH 235B",
+  "picture":"images/3.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":6,
+  "name":"BH 237B",
+  "picture":"images/2.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":7,
+  "name":"BH 255A",
+  "picture":"images/4.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":8,
+  "name":"CFA 317",
+  "picture":"images/4.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":9,
+  "name":"CFA 318",
+  "picture":"images/3.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":10,
+  "name":"CFA 321",
+  "picture":"images/3.jpeg",
+  "capacity":"5",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":11,
+  "name":"CFA 323",
+  "picture":"images/1.jpeg",
+  "capacity":"10",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":12,
+  "name":"CUC STUDY ROOM 01",
+  "picture":"images/2.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":13,
+  "name":"CUC STUDY ROOM 02",
+  "picture":"images/4.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":14,
+  "name":"CUC STUDY ROOM 03",
+  "picture":"images/2.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":15,
+  "name":"CUC STUDY ROOM 04",
+  "picture":"images/3.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":16,
+  "name":"CUC STUDY ROOM 05",
+  "picture":"images/1.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":17,
+  "name":"CUC STUDY ROOM 06",
+  "picture":"images/4.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":18,
+  "name":"CUC STUDY ROOM 07",
+  "picture":"images/5.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":19,
+  "name":"CUC STUDY ROOM 08",
+  "picture":"images/3.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":20,
+  "name":"CUC STUDY ROOM 09",
+  "picture":"images/3.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":21,
+  "name":"CUC STUDY ROOM 10",
+  "picture":"images/4.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":22,
+  "name":"CUC STUDY ROOM 11",
+  "picture":"images/1.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":23,
+  "name":"CUC STUDY ROOM 12",
+  "picture":"images/1.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":24,
+  "name":"CUC STUDY ROOM 13",
+  "picture":"images/1.jpeg",
+  "capacity":"4",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":25,
+  "name":"CUC STUDY ROOM 14",
+  "picture":"images/2.jpeg",
+  "capacity":"4",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":26,
+  "name":"CUC STUDY ROOM 15",
+  "picture":"images/2.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":27,
+  "name":"CUC STUDY ROOM 16",
+  "picture":"images/4.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":28,
+  "name":"CUC STUDY ROOM 17",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":29,
+  "name":"CUC STUDY ROOM 18",
+  "picture":"images/3.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":30,
+  "name":"CUC STUDY ROOM 19",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":31,
+  "name":"CUC STUDY ROOM 20",
+  "picture":"images/3.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":32,
+  "name":"CUC STUDY ROOM 21",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":33,
+  "name":"CUC STUDY ROOM 22",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":34,
+  "name":"CUC STUDY ROOM 23",
+  "picture":"images/2.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":35,
+  "name":"CUC STUDY ROOM 24",
+  "picture":"images/3.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":36,
+  "name":"CUC STUDY ROOM 25",
+  "picture":"images/2.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":37,
+  "name":"CUC STUDY ROOM 26",
+  "picture":"images/4.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":38,
+  "name":"CUC STUDY ROOM 27",
+  "picture":"images/1.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":39,
+  "name":"CUC STUDY ROOM 28",
+  "picture":"images/1.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":40,
+  "name":"CUC-ACTIVITIES ROOM",
+  "picture":"images/5.jpeg",
+  "capacity":"999",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":41,
+  "name":"CUC-C 87",
+  "picture":"images/4.jpeg",
+  "capacity":"16",
+  "floor":"Conference Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":42,
+  "name":"CUC-CAFFEE",
+  "picture":"images/5.jpeg",
+  "capacity":"12",
+  "floor":"Conference Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":43,
+  "name":"CUC-CHAPEL",
+  "picture":"images/3.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":44,
+  "name":"CUC-CONNAN",
+  "picture":"images/5.jpeg",
+  "capacity":"144",
+  "floor":"Auditorium Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":45,
+  "name":"CUC-DANFORTH",
+  "picture":"images/1.jpeg",
+  "capacity":"70",
+  "floor":"Auditorium Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":46,
+  "name":"CUC-DANFORTH LOUNGE",
+  "picture":"images/5.jpeg",
+  "capacity":"32",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":47,
+  "name":"CUC-DISPLAY CASE 1 FL",
+  "picture":"images/2.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":48,
+  "name":"CUC-DISPLAY CASE LL",
+  "picture":"images/4.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":49,
+  "name":"CUC-DOWD",
+  "picture":"images/3.jpeg",
+  "capacity":"30",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":50,
+  "name":"CUC-MCCONOMY",
+  "picture":"images/4.jpeg",
+  "capacity":"450",
+  "floor":"Auditorium Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":51,
+  "name":"CUC-MCKENNA",
+  "picture":"images/1.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":52,
+  "name":"CUC-PAKE",
+  "picture":"images/2.jpeg",
+  "capacity":"16",
+  "floor":"Conference Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":53,
+  "name":"CUC-PETER",
+  "picture":"images/1.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":54,
+  "name":"CUC-RANGOS 1",
+  "picture":"images/1.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":55,
+  "name":"CUC-RANGOS 2",
+  "picture":"images/5.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":56,
+  "name":"CUC-RANGOS 3",
+  "picture":"images/5.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":57,
+  "name":"CUC-WEAN COMMONS 1",
+  "picture":"images/3.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":58,
+  "name":"CUC-WEAN COMMONS 2",
+  "picture":"images/1.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":59,
+  "name":"CUC-WEAN COMMONS 3",
+  "picture":"images/1.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":60,
+  "name":"CUC-WEAN COMMONS 4",
+  "picture":"images/4.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":61,
+  "name":"CUC-WEAN COMMONS 5",
+  "picture":"images/1.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":62,
+  "name":"CUC-WEAN COMMONS 6",
+  "picture":"images/1.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":63,
+  "name":"CUC-WIEGAND GYM",
+  "picture":"images/1.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":64,
+  "name":"CUC-WRIGHT",
+  "picture":"images/3.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":65,
+  "name":"CYH 100A",
+  "picture":"images/5.jpeg",
+  "capacity":"26",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":66,
+  "name":"CYH 100D",
+  "picture":"images/3.jpeg",
+  "capacity":"17",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":67,
+  "name":"DH 1112",
+  "picture":"images/2.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":68,
+  "name":"DH 1117",
+  "picture":"images/4.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":69,
+  "name":"DH 1209",
+  "picture":"images/5.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":70,
+  "name":"DH 1211",
+  "picture":"images/1.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":71,
+  "name":"DH 1212",
+  "picture":"images/3.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":72,
+  "name":"DH 1217",
+  "picture":"images/5.jpeg",
+  "capacity":"0",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":73,
+  "name":"DH 2105",
+  "picture":"images/3.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":74,
+  "name":"DH 2122",
+  "picture":"images/4.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":75,
+  "name":"DH 2210",
+  "picture":"images/5.jpeg",
+  "capacity":"289",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":76,
+  "name":"DH 2315",
+  "picture":"images/3.jpeg",
+  "capacity":"266",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":77,
+  "name":"DH A302",
+  "picture":"images/2.jpeg",
+  "capacity":"132",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":78,
+  "name":"GHC 4101",
+  "picture":"images/1.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":79,
+  "name":"GHC 4102",
+  "picture":"images/2.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":80,
+  "name":"GHC 4211",
+  "picture":"images/3.jpeg",
+  "capacity":"42",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":81,
+  "name":"GHC 4215",
+  "picture":"images/5.jpeg",
+  "capacity":"58",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":82,
+  "name":"GHC 4301",
+  "picture":"images/3.jpeg",
+  "capacity":"28",
+  "floor":"Table Rows",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":83,
+  "name":"GHC 4307",
+  "picture":"images/1.jpeg",
+  "capacity":"75",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":84,
+  "name":"GHC 5222",
+  "picture":"images/1.jpeg",
+  "capacity":"38",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":85,
+  "name":"HBH 1002",
+  "picture":"images/3.jpeg",
+  "capacity":"64",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":86,
+  "name":"HBH 1004",
+  "picture":"images/2.jpeg",
+  "capacity":"30",
+  "floor":"Table Rows",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":87,
+  "name":"HBH 1005",
+  "picture":"images/2.jpeg",
+  "capacity":"46",
+  "floor":"Table Rows",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":88,
+  "name":"HBH 1006",
+  "picture":"images/3.jpeg",
+  "capacity":"40",
+  "floor":"Table Rows",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":89,
+  "name":"HBH 1007",
+  "picture":"images/2.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":90,
+  "name":"HBH 1107",
+  "picture":"images/1.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":91,
+  "name":"HBH 1111",
+  "picture":"images/4.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":92,
+  "name":"HBH 1202",
+  "picture":"images/2.jpeg",
+  "capacity":"50",
+  "floor":"Table Rows",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":93,
+  "name":"HBH 1204",
+  "picture":"images/5.jpeg",
+  "capacity":"60",
+  "floor":"Table Rows",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":94,
+  "name":"HBH 1206",
+  "picture":"images/4.jpeg",
+  "capacity":"60",
+  "floor":"Classroom,",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":95,
+  "name":"HBH 1206",
+  "picture":"images/1.jpeg",
+  "capacity":"60",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":96,
+  "name":"HBH 1208",
+  "picture":"images/1.jpeg",
+  "capacity":"24",
+  "floor":"Classroom,",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":97,
+  "name":"HBH 1208",
+  "picture":"images/5.jpeg",
+  "capacity":"24",
+  "floor":"Rows Of Chairs",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":98,
+  "name":"HBH 2003",
+  "picture":"images/4.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":99,
+  "name":"HBH 2008",
+  "picture":"images/3.jpeg",
+  "capacity":"40",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":100,
+  "name":"HBH 2009",
+  "picture":"images/4.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":101,
+  "name":"HBH 2011",
+  "picture":"images/2.jpeg",
+  "capacity":"18",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":102,
+  "name":"HBH 2108",
+  "picture":"images/2.jpeg",
+  "capacity":"16",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":103,
+  "name":"HBH A007A",
+  "picture":"images/5.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":104,
+  "name":"HBH A007B",
+  "picture":"images/3.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":105,
+  "name":"HBH A007C",
+  "picture":"images/4.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":106,
+  "name":"HBH A007D",
+  "picture":"images/2.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":107,
+  "name":"HBH A007E",
+  "picture":"images/3.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":108,
+  "name":"HBH A007F",
+  "picture":"images/3.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":109,
+  "name":"HBH A007G",
+  "picture":"images/5.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":110,
+  "name":"HBH A007H",
+  "picture":"images/3.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":111,
+  "name":"HBH A007J",
+  "picture":"images/5.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":112,
+  "name":"HBH A119",
+  "picture":"images/1.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":113,
+  "name":"HBH A301",
+  "picture":"images/2.jpeg",
+  "capacity":"150",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":114,
+  "name":"HH B103",
+  "picture":"images/2.jpeg",
+  "capacity":"101",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":115,
+  "name":"HH B131",
+  "picture":"images/5.jpeg",
+  "capacity":"98",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":116,
+  "name":"MI 328",
+  "picture":"images/3.jpeg",
+  "capacity":"53",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":117,
+  "name":"MI 348",
+  "picture":"images/2.jpeg",
+  "capacity":"80",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":118,
+  "name":"MI 355",
+  "picture":"images/2.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":119,
+  "name":"MI 411",
+  "picture":"images/2.jpeg",
+  "capacity":"25",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":120,
+  "name":"MI 416",
+  "picture":"images/2.jpeg",
+  "capacity":"12",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":121,
+  "name":"MI 434",
+  "picture":"images/3.jpeg",
+  "capacity":"15",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":122,
+  "name":"MI 448",
+  "picture":"images/5.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":123,
+  "name":"MI AUDITORIUM",
+  "picture":"images/1.jpeg",
+  "capacity":"348",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":124,
+  "name":"MI FIFTH AVE LOBBY",
+  "picture":"images/4.jpeg",
+  "capacity":"25",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":125,
+  "name":"MM 103",
+  "picture":"images/4.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":126,
+  "name":"MM A14",
+  "picture":"images/4.jpeg",
+  "capacity":"108",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":127,
+  "name":"PH 100",
+  "picture":"images/4.jpeg",
+  "capacity":"217",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":128,
+  "name":"PH 125B",
+  "picture":"images/3.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":129,
+  "name":"PH 125C",
+  "picture":"images/3.jpeg",
+  "capacity":"24",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":130,
+  "name":"PH 126A",
+  "picture":"images/4.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":131,
+  "name":"PH 225B",
+  "picture":"images/4.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":132,
+  "name":"PH 226A",
+  "picture":"images/2.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":133,
+  "name":"PH 226B",
+  "picture":"images/3.jpeg",
+  "capacity":"28",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":134,
+  "name":"PH 226C",
+  "picture":"images/5.jpeg",
+  "capacity":"28",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":135,
+  "name":"PH A18A",
+  "picture":"images/5.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":136,
+  "name":"PH A18B",
+  "picture":"images/1.jpeg",
+  "capacity":"38",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":137,
+  "name":"PH A18C",
+  "picture":"images/4.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":138,
+  "name":"PH A19",
+  "picture":"images/5.jpeg",
+  "capacity":"20",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":139,
+  "name":"PH A19A",
+  "picture":"images/3.jpeg",
+  "capacity":"20",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":140,
+  "name":"PH A19C",
+  "picture":"images/2.jpeg",
+  "capacity":"18",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":141,
+  "name":"PH A19D",
+  "picture":"images/4.jpeg",
+  "capacity":"18",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":142,
+  "name":"PH A20",
+  "picture":"images/4.jpeg",
+  "capacity":"12",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":143,
+  "name":"PH A20A",
+  "picture":"images/4.jpeg",
+  "capacity":"21",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":144,
+  "name":"PH A21",
+  "picture":"images/3.jpeg",
+  "capacity":"21",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":145,
+  "name":"PH A21A",
+  "picture":"images/1.jpeg",
+  "capacity":"21",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":146,
+  "name":"PH A22",
+  "picture":"images/2.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":147,
+  "name":"SH 125",
+  "picture":"images/4.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":148,
+  "name":"SH 208",
+  "picture":"images/5.jpeg",
+  "capacity":"30",
+  "floor":"Table Rows",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":149,
+  "name":"SH 212",
+  "picture":"images/2.jpeg",
+  "capacity":"20",
+  "floor":"Conference Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":150,
+  "name":"SH 214",
+  "picture":"images/4.jpeg",
+  "capacity":"45",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":151,
+  "name":"SH 219",
+  "picture":"images/5.jpeg",
+  "capacity":"45",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":152,
+  "name":"SH 220",
+  "picture":"images/2.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":153,
+  "name":"SH 222",
+  "picture":"images/5.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":154,
+  "name":"SIA CP AUD",
+  "picture":"images/2.jpeg",
+  "capacity":"74",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":155,
+  "name":"TEP - FITNESS TERRACE",
+  "picture":"images/4.jpeg",
+  "capacity":"50",
+  "floor":"Fitness Terrace",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":156,
+  "name":"TEP 1200",
+  "picture":"images/3.jpeg",
+  "capacity":"50",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":157,
+  "name":"TEP 1202",
+  "picture":"images/4.jpeg",
+  "capacity":"70",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":158,
+  "name":"TEP 1204",
+  "picture":"images/2.jpeg",
+  "capacity":"35",
+  "floor":"Reception",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":159,
+  "name":"TPR 2110",
+  "picture":"images/4.jpeg",
+  "capacity":"80",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":160,
+  "name":"TPR 2111",
+  "picture":"images/5.jpeg",
+  "capacity":"80",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":161,
+  "name":"TPR 2112",
+  "picture":"images/2.jpeg",
+  "capacity":"44",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":162,
+  "name":"TPR 2118",
+  "picture":"images/4.jpeg",
+  "capacity":"48",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":163,
+  "name":"TPR 2119",
+  "picture":"images/5.jpeg",
+  "capacity":"20",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":164,
+  "name":"TPR 2120",
+  "picture":"images/4.jpeg",
+  "capacity":"20",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":165,
+  "name":"TPR 2121",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":166,
+  "name":"TPR 2122",
+  "picture":"images/2.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":167,
+  "name":"TPR 2123",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":168,
+  "name":"TPR 2202",
+  "picture":"images/1.jpeg",
+  "capacity":"64",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":169,
+  "name":"TPR 2703",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":170,
+  "name":"TPR 2704",
+  "picture":"images/4.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":171,
+  "name":"TPR 2705",
+  "picture":"images/1.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":172,
+  "name":"TPR 3108",
+  "picture":"images/1.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":173,
+  "name":"TPR 3109",
+  "picture":"images/1.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":174,
+  "name":"TPR 3116",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":175,
+  "name":"TPR 3117",
+  "picture":"images/2.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":176,
+  "name":"TPR 3127",
+  "picture":"images/4.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":177,
+  "name":"TPR 3803",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":178,
+  "name":"TPR 3804",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":179,
+  "name":"TPR 3805",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":180,
+  "name":"TRP 2113",
+  "picture":"images/1.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":181,
+  "name":"TRP 2114",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":182,
+  "name":"TRP 2115",
+  "picture":"images/2.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":183,
+  "name":"TRP 2116",
+  "picture":"images/1.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":184,
+  "name":"TRP 2117",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":185,
+  "name":"WEH 4623",
+  "picture":"images/5.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":186,
+  "name":"WEH 4709",
+  "picture":"images/1.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":187,
+  "name":"WEH 5201",
+  "picture":"images/1.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":188,
+  "name":"WEH 5202",
+  "picture":"images/3.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":189,
+  "name":"WEH 5207",
+  "picture":"images/5.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":190,
+  "name":"WEH 5302",
+  "picture":"images/4.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":191,
+  "name":"WEH 5304",
+  "picture":"images/5.jpeg",
+  "capacity":"20",
+  "floor":"Hollow Square",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":192,
+  "name":"WEH 5310",
+  "picture":"images/1.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":193,
+  "name":"WEH 5312",
+  "picture":"images/5.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":194,
+  "name":"WEH 5316",
+  "picture":"images/1.jpeg",
+  "capacity":"20",
+  "floor":"Hollow Square",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":195,
+  "name":"WEH 5320",
+  "picture":"images/5.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":196,
+  "name":"WEH 5328",
+  "picture":"images/1.jpeg",
+  "capacity":"24",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":197,
+  "name":"WEH 5403",
+  "picture":"images/2.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":198,
+  "name":"WEH 5409",
+  "picture":"images/2.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":199,
+  "name":"WEH 5415",
+  "picture":"images/4.jpeg",
+  "capacity":"45",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":200,
+  "name":"WEH 5421",
+  "picture":"images/1.jpeg",
+  "capacity":"45",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":201,
+  "name":"WEH 6423",
+  "picture":"images/1.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":202,
+  "name":"WEH 7500",
+  "picture":"images/5.jpeg",
+  "capacity":"152",
+  "floor":"Lecture Hall",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":203,
+  "name":"WEH 8427",
+  "picture":"images/2.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"4-5 PM" 
+ },
+ {
+  "id":204,
+  "name":"BH 140C",
+  "picture":"images/3.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":205,
+  "name":"BH 140D",
+  "picture":"images/3.jpeg",
+  "capacity":"10",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":206,
+  "name":"BH 140E",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":207,
+  "name":"BH 140F",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":208,
+  "name":"BH 235A",
+  "picture":"images/10.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":209,
+  "name":"BH 235B",
+  "picture":"images/7.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":210,
+  "name":"BH 237B",
+  "picture":"images/10.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":211,
+  "name":"BH 255A",
+  "picture":"images/3.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":212,
+  "name":"CFA 317",
+  "picture":"images/8.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":213,
+  "name":"CFA 318",
+  "picture":"images/5.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":214,
+  "name":"CFA 321",
+  "picture":"images/5.jpeg",
+  "capacity":"5",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":215,
+  "name":"CFA 323",
+  "picture":"images/5.jpeg",
+  "capacity":"10",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":216,
+  "name":"CUC STUDY ROOM 01",
+  "picture":"images/10.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":217,
+  "name":"CUC STUDY ROOM 02",
+  "picture":"images/7.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":218,
+  "name":"CUC STUDY ROOM 03",
+  "picture":"images/5.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":219,
+  "name":"CUC STUDY ROOM 04",
+  "picture":"images/7.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":220,
+  "name":"CUC STUDY ROOM 05",
+  "picture":"images/3.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":221,
+  "name":"CUC STUDY ROOM 06",
+  "picture":"images/8.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":222,
+  "name":"CUC STUDY ROOM 07",
+  "picture":"images/8.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":223,
+  "name":"CUC STUDY ROOM 08",
+  "picture":"images/8.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":224,
+  "name":"CUC STUDY ROOM 09",
+  "picture":"images/7.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":225,
+  "name":"CUC STUDY ROOM 10",
+  "picture":"images/10.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":226,
+  "name":"CUC STUDY ROOM 11",
+  "picture":"images/7.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":227,
+  "name":"CUC STUDY ROOM 12",
+  "picture":"images/7.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":228,
+  "name":"CUC STUDY ROOM 13",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":229,
+  "name":"CUC STUDY ROOM 14",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":230,
+  "name":"CUC STUDY ROOM 15",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":231,
+  "name":"CUC STUDY ROOM 16",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":232,
+  "name":"CUC STUDY ROOM 17",
+  "picture":"images/3.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":233,
+  "name":"CUC STUDY ROOM 18",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":234,
+  "name":"CUC STUDY ROOM 19",
+  "picture":"images/3.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":235,
+  "name":"CUC STUDY ROOM 20",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":236,
+  "name":"CUC STUDY ROOM 21",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":237,
+  "name":"CUC STUDY ROOM 22",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":238,
+  "name":"CUC STUDY ROOM 23",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":239,
+  "name":"CUC STUDY ROOM 24",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":240,
+  "name":"CUC STUDY ROOM 25",
+  "picture":"images/3.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":241,
+  "name":"CUC STUDY ROOM 26",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":242,
+  "name":"CUC STUDY ROOM 27",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":243,
+  "name":"CUC STUDY ROOM 28",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":244,
+  "name":"CUC-ACTIVITIES ROOM",
+  "picture":"images/5.jpeg",
+  "capacity":"999",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":245,
+  "name":"CUC-C 87",
+  "picture":"images/10.jpeg",
+  "capacity":"16",
+  "floor":"Conference Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":246,
+  "name":"CUC-CAFFEE",
+  "picture":"images/10.jpeg",
+  "capacity":"12",
+  "floor":"Conference Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":247,
+  "name":"CUC-CHAPEL",
+  "picture":"images/5.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":248,
+  "name":"CUC-CONNAN",
+  "picture":"images/3.jpeg",
+  "capacity":"144",
+  "floor":"Auditorium Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":249,
+  "name":"CUC-DANFORTH",
+  "picture":"images/7.jpeg",
+  "capacity":"70",
+  "floor":"Auditorium Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":250,
+  "name":"CUC-DANFORTH LOUNGE",
+  "picture":"images/10.jpeg",
+  "capacity":"32",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":251,
+  "name":"CUC-DISPLAY CASE 1 FL",
+  "picture":"images/8.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":252,
+  "name":"CUC-DISPLAY CASE LL",
+  "picture":"images/7.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":253,
+  "name":"CUC-DOWD",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":254,
+  "name":"CUC-MCCONOMY",
+  "picture":"images/7.jpeg",
+  "capacity":"450",
+  "floor":"Auditorium Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":255,
+  "name":"CUC-MCKENNA",
+  "picture":"images/3.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":256,
+  "name":"CUC-PAKE",
+  "picture":"images/7.jpeg",
+  "capacity":"16",
+  "floor":"Conference Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":257,
+  "name":"CUC-PETER",
+  "picture":"images/10.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":258,
+  "name":"CUC-RANGOS 1",
+  "picture":"images/5.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":259,
+  "name":"CUC-RANGOS 2",
+  "picture":"images/5.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":260,
+  "name":"CUC-RANGOS 3",
+  "picture":"images/5.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":261,
+  "name":"CUC-WEAN COMMONS 1",
+  "picture":"images/8.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":262,
+  "name":"CUC-WEAN COMMONS 2",
+  "picture":"images/7.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":263,
+  "name":"CUC-WEAN COMMONS 3",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":264,
+  "name":"CUC-WEAN COMMONS 4",
+  "picture":"images/7.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":265,
+  "name":"CUC-WEAN COMMONS 5",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":266,
+  "name":"CUC-WEAN COMMONS 6",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":267,
+  "name":"CUC-WIEGAND GYM",
+  "picture":"images/3.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":268,
+  "name":"CUC-WRIGHT",
+  "picture":"images/8.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":269,
+  "name":"CYH 100A",
+  "picture":"images/10.jpeg",
+  "capacity":"26",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":270,
+  "name":"CYH 100D",
+  "picture":"images/8.jpeg",
+  "capacity":"17",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":271,
+  "name":"DH 1112",
+  "picture":"images/8.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":272,
+  "name":"DH 1117",
+  "picture":"images/3.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":273,
+  "name":"DH 1209",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":274,
+  "name":"DH 1211",
+  "picture":"images/5.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":275,
+  "name":"DH 1212",
+  "picture":"images/7.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":276,
+  "name":"DH 1217",
+  "picture":"images/3.jpeg",
+  "capacity":"0",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":277,
+  "name":"DH 2105",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":278,
+  "name":"DH 2122",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":279,
+  "name":"DH 2210",
+  "picture":"images/3.jpeg",
+  "capacity":"289",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":280,
+  "name":"DH 2315",
+  "picture":"images/7.jpeg",
+  "capacity":"266",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":281,
+  "name":"DH A302",
+  "picture":"images/8.jpeg",
+  "capacity":"132",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":282,
+  "name":"GHC 4101",
+  "picture":"images/7.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":283,
+  "name":"GHC 4102",
+  "picture":"images/5.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":284,
+  "name":"GHC 4211",
+  "picture":"images/7.jpeg",
+  "capacity":"42",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":285,
+  "name":"GHC 4215",
+  "picture":"images/10.jpeg",
+  "capacity":"58",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":286,
+  "name":"GHC 4301",
+  "picture":"images/3.jpeg",
+  "capacity":"28",
+  "floor":"Table Rows",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":287,
+  "name":"GHC 4307",
+  "picture":"images/5.jpeg",
+  "capacity":"75",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":288,
+  "name":"GHC 5222",
+  "picture":"images/3.jpeg",
+  "capacity":"38",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":289,
+  "name":"HBH 1002",
+  "picture":"images/5.jpeg",
+  "capacity":"64",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":290,
+  "name":"HBH 1004",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Table Rows",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":291,
+  "name":"HBH 1005",
+  "picture":"images/10.jpeg",
+  "capacity":"46",
+  "floor":"Table Rows",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":292,
+  "name":"HBH 1006",
+  "picture":"images/3.jpeg",
+  "capacity":"40",
+  "floor":"Table Rows",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":293,
+  "name":"HBH 1007",
+  "picture":"images/3.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":294,
+  "name":"HBH 1107",
+  "picture":"images/5.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":295,
+  "name":"HBH 1111",
+  "picture":"images/5.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":296,
+  "name":"HBH 1202",
+  "picture":"images/5.jpeg",
+  "capacity":"50",
+  "floor":"Table Rows",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":297,
+  "name":"HBH 1204",
+  "picture":"images/10.jpeg",
+  "capacity":"60",
+  "floor":"Table Rows",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":298,
+  "name":"HBH 1206",
+  "picture":"images/5.jpeg",
+  "capacity":"60",
+  "floor":"Classroom,",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":299,
+  "name":"HBH 1206",
+  "picture":"images/8.jpeg",
+  "capacity":"60",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":300,
+  "name":"HBH 1208",
+  "picture":"images/3.jpeg",
+  "capacity":"24",
+  "floor":"Classroom,",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":301,
+  "name":"HBH 1208",
+  "picture":"images/3.jpeg",
+  "capacity":"24",
+  "floor":"Rows Of Chairs",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":302,
+  "name":"HBH 2003",
+  "picture":"images/5.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":303,
+  "name":"HBH 2008",
+  "picture":"images/3.jpeg",
+  "capacity":"40",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":304,
+  "name":"HBH 2009",
+  "picture":"images/7.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":305,
+  "name":"HBH 2011",
+  "picture":"images/7.jpeg",
+  "capacity":"18",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":306,
+  "name":"HBH 2108",
+  "picture":"images/8.jpeg",
+  "capacity":"16",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":307,
+  "name":"HBH A007A",
+  "picture":"images/3.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":308,
+  "name":"HBH A007B",
+  "picture":"images/5.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":309,
+  "name":"HBH A007C",
+  "picture":"images/10.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":310,
+  "name":"HBH A007D",
+  "picture":"images/10.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":311,
+  "name":"HBH A007E",
+  "picture":"images/5.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":312,
+  "name":"HBH A007F",
+  "picture":"images/3.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":313,
+  "name":"HBH A007G",
+  "picture":"images/8.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":314,
+  "name":"HBH A007H",
+  "picture":"images/5.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":315,
+  "name":"HBH A007J",
+  "picture":"images/7.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":316,
+  "name":"HBH A119",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":317,
+  "name":"HBH A301",
+  "picture":"images/7.jpeg",
+  "capacity":"150",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":318,
+  "name":"HH B103",
+  "picture":"images/5.jpeg",
+  "capacity":"101",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":319,
+  "name":"HH B131",
+  "picture":"images/8.jpeg",
+  "capacity":"98",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":320,
+  "name":"MI 328",
+  "picture":"images/10.jpeg",
+  "capacity":"53",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":321,
+  "name":"MI 348",
+  "picture":"images/5.jpeg",
+  "capacity":"80",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":322,
+  "name":"MI 355",
+  "picture":"images/7.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":323,
+  "name":"MI 411",
+  "picture":"images/5.jpeg",
+  "capacity":"25",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":324,
+  "name":"MI 416",
+  "picture":"images/7.jpeg",
+  "capacity":"12",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":325,
+  "name":"MI 434",
+  "picture":"images/8.jpeg",
+  "capacity":"15",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":326,
+  "name":"MI 448",
+  "picture":"images/8.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":327,
+  "name":"MI AUDITORIUM",
+  "picture":"images/7.jpeg",
+  "capacity":"348",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":328,
+  "name":"MI FIFTH AVE LOBBY",
+  "picture":"images/8.jpeg",
+  "capacity":"25",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":329,
+  "name":"MM 103",
+  "picture":"images/10.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":330,
+  "name":"MM A14",
+  "picture":"images/5.jpeg",
+  "capacity":"108",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":331,
+  "name":"PH 100",
+  "picture":"images/5.jpeg",
+  "capacity":"217",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":332,
+  "name":"PH 125B",
+  "picture":"images/10.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":333,
+  "name":"PH 125C",
+  "picture":"images/5.jpeg",
+  "capacity":"24",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":334,
+  "name":"PH 126A",
+  "picture":"images/10.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":335,
+  "name":"PH 225B",
+  "picture":"images/7.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":336,
+  "name":"PH 226A",
+  "picture":"images/3.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":337,
+  "name":"PH 226B",
+  "picture":"images/5.jpeg",
+  "capacity":"28",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":338,
+  "name":"PH 226C",
+  "picture":"images/8.jpeg",
+  "capacity":"28",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":339,
+  "name":"PH A18A",
+  "picture":"images/10.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":340,
+  "name":"PH A18B",
+  "picture":"images/7.jpeg",
+  "capacity":"38",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":341,
+  "name":"PH A18C",
+  "picture":"images/3.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":342,
+  "name":"PH A19",
+  "picture":"images/5.jpeg",
+  "capacity":"20",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":343,
+  "name":"PH A19A",
+  "picture":"images/3.jpeg",
+  "capacity":"20",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":344,
+  "name":"PH A19C",
+  "picture":"images/10.jpeg",
+  "capacity":"18",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":345,
+  "name":"PH A19D",
+  "picture":"images/3.jpeg",
+  "capacity":"18",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":346,
+  "name":"PH A20",
+  "picture":"images/8.jpeg",
+  "capacity":"12",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":347,
+  "name":"PH A20A",
+  "picture":"images/8.jpeg",
+  "capacity":"21",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":348,
+  "name":"PH A21",
+  "picture":"images/8.jpeg",
+  "capacity":"21",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":349,
+  "name":"PH A21A",
+  "picture":"images/8.jpeg",
+  "capacity":"21",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":350,
+  "name":"PH A22",
+  "picture":"images/3.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":351,
+  "name":"SH 125",
+  "picture":"images/3.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":352,
+  "name":"SH 208",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Table Rows",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":353,
+  "name":"SH 212",
+  "picture":"images/5.jpeg",
+  "capacity":"20",
+  "floor":"Conference Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":354,
+  "name":"SH 214",
+  "picture":"images/10.jpeg",
+  "capacity":"45",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":355,
+  "name":"SH 219",
+  "picture":"images/7.jpeg",
+  "capacity":"45",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":356,
+  "name":"SH 220",
+  "picture":"images/5.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":357,
+  "name":"SH 222",
+  "picture":"images/5.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":358,
+  "name":"SIA CP AUD",
+  "picture":"images/7.jpeg",
+  "capacity":"74",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":359,
+  "name":"TEP - FITNESS TERRACE",
+  "picture":"images/8.jpeg",
+  "capacity":"50",
+  "floor":"Fitness Terrace",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":360,
+  "name":"TEP 1200",
+  "picture":"images/8.jpeg",
+  "capacity":"50",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":361,
+  "name":"TEP 1202",
+  "picture":"images/7.jpeg",
+  "capacity":"70",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":362,
+  "name":"TEP 1204",
+  "picture":"images/5.jpeg",
+  "capacity":"35",
+  "floor":"Reception",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":363,
+  "name":"TPR 2110",
+  "picture":"images/10.jpeg",
+  "capacity":"80",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":364,
+  "name":"TPR 2111",
+  "picture":"images/10.jpeg",
+  "capacity":"80",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":365,
+  "name":"TPR 2112",
+  "picture":"images/7.jpeg",
+  "capacity":"44",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":366,
+  "name":"TPR 2118",
+  "picture":"images/7.jpeg",
+  "capacity":"48",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":367,
+  "name":"TPR 2119",
+  "picture":"images/8.jpeg",
+  "capacity":"20",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":368,
+  "name":"TPR 2120",
+  "picture":"images/7.jpeg",
+  "capacity":"20",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":369,
+  "name":"TPR 2121",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":370,
+  "name":"TPR 2122",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":371,
+  "name":"TPR 2123",
+  "picture":"images/8.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":372,
+  "name":"TPR 2202",
+  "picture":"images/5.jpeg",
+  "capacity":"64",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":373,
+  "name":"TPR 2703",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":374,
+  "name":"TPR 2704",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":375,
+  "name":"TPR 2705",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":376,
+  "name":"TPR 3108",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":377,
+  "name":"TPR 3109",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":378,
+  "name":"TPR 3116",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":379,
+  "name":"TPR 3117",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":380,
+  "name":"TPR 3127",
+  "picture":"images/8.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":381,
+  "name":"TPR 3803",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":382,
+  "name":"TPR 3804",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":383,
+  "name":"TPR 3805",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":384,
+  "name":"TRP 2113",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":385,
+  "name":"TRP 2114",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":386,
+  "name":"TRP 2115",
+  "picture":"images/3.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":387,
+  "name":"TRP 2116",
+  "picture":"images/7.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":388,
+  "name":"TRP 2117",
+  "picture":"images/7.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":389,
+  "name":"WEH 4623",
+  "picture":"images/10.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":390,
+  "name":"WEH 4709",
+  "picture":"images/5.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":391,
+  "name":"WEH 5201",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":392,
+  "name":"WEH 5202",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":393,
+  "name":"WEH 5207",
+  "picture":"images/5.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":394,
+  "name":"WEH 5302",
+  "picture":"images/10.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":395,
+  "name":"WEH 5304",
+  "picture":"images/7.jpeg",
+  "capacity":"20",
+  "floor":"Hollow Square",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":396,
+  "name":"WEH 5310",
+  "picture":"images/3.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":397,
+  "name":"WEH 5312",
+  "picture":"images/5.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":398,
+  "name":"WEH 5316",
+  "picture":"images/3.jpeg",
+  "capacity":"20",
+  "floor":"Hollow Square",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":399,
+  "name":"WEH 5320",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":400,
+  "name":"WEH 5328",
+  "picture":"images/3.jpeg",
+  "capacity":"24",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":401,
+  "name":"WEH 5403",
+  "picture":"images/8.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":402,
+  "name":"WEH 5409",
+  "picture":"images/8.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":403,
+  "name":"WEH 5415",
+  "picture":"images/5.jpeg",
+  "capacity":"45",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":404,
+  "name":"WEH 5421",
+  "picture":"images/3.jpeg",
+  "capacity":"45",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":405,
+  "name":"WEH 6423",
+  "picture":"images/7.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":406,
+  "name":"WEH 7500",
+  "picture":"images/8.jpeg",
+  "capacity":"152",
+  "floor":"Lecture Hall",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":407,
+  "name":"WEH 8427",
+  "picture":"images/5.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"5-6 PM" 
+ },
+ {
+  "id":408,
+  "name":"BH 140C",
+  "picture":"images/8.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":409,
+  "name":"BH 140D",
+  "picture":"images/8.jpeg",
+  "capacity":"10",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":410,
+  "name":"BH 140E",
+  "picture":"images/4.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":411,
+  "name":"BH 140F",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":412,
+  "name":"BH 235A",
+  "picture":"images/10.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":413,
+  "name":"BH 235B",
+  "picture":"images/9.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":414,
+  "name":"BH 237B",
+  "picture":"images/10.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":415,
+  "name":"BH 255A",
+  "picture":"images/8.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":416,
+  "name":"CFA 317",
+  "picture":"images/1.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":417,
+  "name":"CFA 318",
+  "picture":"images/8.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":418,
+  "name":"CFA 321",
+  "picture":"images/9.jpeg",
+  "capacity":"5",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":419,
+  "name":"CFA 323",
+  "picture":"images/9.jpeg",
+  "capacity":"10",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":420,
+  "name":"CUC STUDY ROOM 01",
+  "picture":"images/8.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":421,
+  "name":"CUC STUDY ROOM 02",
+  "picture":"images/4.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":422,
+  "name":"CUC STUDY ROOM 03",
+  "picture":"images/8.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":423,
+  "name":"CUC STUDY ROOM 04",
+  "picture":"images/1.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":424,
+  "name":"CUC STUDY ROOM 05",
+  "picture":"images/4.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":425,
+  "name":"CUC STUDY ROOM 06",
+  "picture":"images/1.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":426,
+  "name":"CUC STUDY ROOM 07",
+  "picture":"images/4.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":427,
+  "name":"CUC STUDY ROOM 08",
+  "picture":"images/1.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":428,
+  "name":"CUC STUDY ROOM 09",
+  "picture":"images/4.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":429,
+  "name":"CUC STUDY ROOM 10",
+  "picture":"images/9.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":430,
+  "name":"CUC STUDY ROOM 11",
+  "picture":"images/4.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":431,
+  "name":"CUC STUDY ROOM 12",
+  "picture":"images/10.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":432,
+  "name":"CUC STUDY ROOM 13",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":433,
+  "name":"CUC STUDY ROOM 14",
+  "picture":"images/1.jpeg",
+  "capacity":"4",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":434,
+  "name":"CUC STUDY ROOM 15",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":435,
+  "name":"CUC STUDY ROOM 16",
+  "picture":"images/9.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":436,
+  "name":"CUC STUDY ROOM 17",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":437,
+  "name":"CUC STUDY ROOM 18",
+  "picture":"images/4.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":438,
+  "name":"CUC STUDY ROOM 19",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":439,
+  "name":"CUC STUDY ROOM 20",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":440,
+  "name":"CUC STUDY ROOM 21",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":441,
+  "name":"CUC STUDY ROOM 22",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":442,
+  "name":"CUC STUDY ROOM 23",
+  "picture":"images/9.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":443,
+  "name":"CUC STUDY ROOM 24",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":444,
+  "name":"CUC STUDY ROOM 25",
+  "picture":"images/9.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":445,
+  "name":"CUC STUDY ROOM 26",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":446,
+  "name":"CUC STUDY ROOM 27",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":447,
+  "name":"CUC STUDY ROOM 28",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":448,
+  "name":"CUC-ACTIVITIES ROOM",
+  "picture":"images/8.jpeg",
+  "capacity":"999",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":449,
+  "name":"CUC-C 87",
+  "picture":"images/1.jpeg",
+  "capacity":"16",
+  "floor":"Conference Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":450,
+  "name":"CUC-CAFFEE",
+  "picture":"images/9.jpeg",
+  "capacity":"12",
+  "floor":"Conference Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":451,
+  "name":"CUC-CHAPEL",
+  "picture":"images/1.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":452,
+  "name":"CUC-CONNAN",
+  "picture":"images/4.jpeg",
+  "capacity":"144",
+  "floor":"Auditorium Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":453,
+  "name":"CUC-DANFORTH",
+  "picture":"images/1.jpeg",
+  "capacity":"70",
+  "floor":"Auditorium Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":454,
+  "name":"CUC-DANFORTH LOUNGE",
+  "picture":"images/10.jpeg",
+  "capacity":"32",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":455,
+  "name":"CUC-DISPLAY CASE 1 FL",
+  "picture":"images/4.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":456,
+  "name":"CUC-DISPLAY CASE LL",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":457,
+  "name":"CUC-DOWD",
+  "picture":"images/1.jpeg",
+  "capacity":"30",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":458,
+  "name":"CUC-MCCONOMY",
+  "picture":"images/8.jpeg",
+  "capacity":"450",
+  "floor":"Auditorium Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":459,
+  "name":"CUC-MCKENNA",
+  "picture":"images/1.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":460,
+  "name":"CUC-PAKE",
+  "picture":"images/10.jpeg",
+  "capacity":"16",
+  "floor":"Conference Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":461,
+  "name":"CUC-PETER",
+  "picture":"images/1.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":462,
+  "name":"CUC-RANGOS 1",
+  "picture":"images/1.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":463,
+  "name":"CUC-RANGOS 2",
+  "picture":"images/10.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":464,
+  "name":"CUC-RANGOS 3",
+  "picture":"images/1.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":465,
+  "name":"CUC-WEAN COMMONS 1",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":466,
+  "name":"CUC-WEAN COMMONS 2",
+  "picture":"images/1.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":467,
+  "name":"CUC-WEAN COMMONS 3",
+  "picture":"images/4.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":468,
+  "name":"CUC-WEAN COMMONS 4",
+  "picture":"images/8.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":469,
+  "name":"CUC-WEAN COMMONS 5",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":470,
+  "name":"CUC-WEAN COMMONS 6",
+  "picture":"images/1.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":471,
+  "name":"CUC-WIEGAND GYM",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":472,
+  "name":"CUC-WRIGHT",
+  "picture":"images/9.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":473,
+  "name":"CYH 100A",
+  "picture":"images/10.jpeg",
+  "capacity":"26",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":474,
+  "name":"CYH 100D",
+  "picture":"images/8.jpeg",
+  "capacity":"17",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":475,
+  "name":"DH 1112",
+  "picture":"images/10.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":476,
+  "name":"DH 1117",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":477,
+  "name":"DH 1209",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":478,
+  "name":"DH 1211",
+  "picture":"images/8.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":479,
+  "name":"DH 1212",
+  "picture":"images/4.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":480,
+  "name":"DH 1217",
+  "picture":"images/9.jpeg",
+  "capacity":"0",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":481,
+  "name":"DH 2105",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":482,
+  "name":"DH 2122",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":483,
+  "name":"DH 2210",
+  "picture":"images/8.jpeg",
+  "capacity":"289",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":484,
+  "name":"DH 2315",
+  "picture":"images/8.jpeg",
+  "capacity":"266",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":485,
+  "name":"DH A302",
+  "picture":"images/1.jpeg",
+  "capacity":"132",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":486,
+  "name":"GHC 4101",
+  "picture":"images/9.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":487,
+  "name":"GHC 4102",
+  "picture":"images/10.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":488,
+  "name":"GHC 4211",
+  "picture":"images/8.jpeg",
+  "capacity":"42",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":489,
+  "name":"GHC 4215",
+  "picture":"images/9.jpeg",
+  "capacity":"58",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":490,
+  "name":"GHC 4301",
+  "picture":"images/10.jpeg",
+  "capacity":"28",
+  "floor":"Table Rows",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":491,
+  "name":"GHC 4307",
+  "picture":"images/8.jpeg",
+  "capacity":"75",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":492,
+  "name":"GHC 5222",
+  "picture":"images/9.jpeg",
+  "capacity":"38",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":493,
+  "name":"HBH 1002",
+  "picture":"images/8.jpeg",
+  "capacity":"64",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":494,
+  "name":"HBH 1004",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Table Rows",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":495,
+  "name":"HBH 1005",
+  "picture":"images/10.jpeg",
+  "capacity":"46",
+  "floor":"Table Rows",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":496,
+  "name":"HBH 1006",
+  "picture":"images/9.jpeg",
+  "capacity":"40",
+  "floor":"Table Rows",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":497,
+  "name":"HBH 1007",
+  "picture":"images/8.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":498,
+  "name":"HBH 1107",
+  "picture":"images/9.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":499,
+  "name":"HBH 1111",
+  "picture":"images/4.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":500,
+  "name":"HBH 1202",
+  "picture":"images/8.jpeg",
+  "capacity":"50",
+  "floor":"Table Rows",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":501,
+  "name":"HBH 1204",
+  "picture":"images/8.jpeg",
+  "capacity":"60",
+  "floor":"Table Rows",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":502,
+  "name":"HBH 1206",
+  "picture":"images/9.jpeg",
+  "capacity":"60",
+  "floor":"Classroom,",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":503,
+  "name":"HBH 1206",
+  "picture":"images/8.jpeg",
+  "capacity":"60",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":504,
+  "name":"HBH 1208",
+  "picture":"images/4.jpeg",
+  "capacity":"24",
+  "floor":"Classroom,",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":505,
+  "name":"HBH 1208",
+  "picture":"images/9.jpeg",
+  "capacity":"24",
+  "floor":"Rows Of Chairs",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":506,
+  "name":"HBH 2003",
+  "picture":"images/4.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":507,
+  "name":"HBH 2008",
+  "picture":"images/9.jpeg",
+  "capacity":"40",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":508,
+  "name":"HBH 2009",
+  "picture":"images/1.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":509,
+  "name":"HBH 2011",
+  "picture":"images/4.jpeg",
+  "capacity":"18",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":510,
+  "name":"HBH 2108",
+  "picture":"images/9.jpeg",
+  "capacity":"16",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":511,
+  "name":"HBH A007A",
+  "picture":"images/4.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":512,
+  "name":"HBH A007B",
+  "picture":"images/4.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":513,
+  "name":"HBH A007C",
+  "picture":"images/4.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":514,
+  "name":"HBH A007D",
+  "picture":"images/8.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":515,
+  "name":"HBH A007E",
+  "picture":"images/1.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":516,
+  "name":"HBH A007F",
+  "picture":"images/4.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":517,
+  "name":"HBH A007G",
+  "picture":"images/9.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":518,
+  "name":"HBH A007H",
+  "picture":"images/1.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":519,
+  "name":"HBH A007J",
+  "picture":"images/4.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":520,
+  "name":"HBH A119",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":521,
+  "name":"HBH A301",
+  "picture":"images/8.jpeg",
+  "capacity":"150",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":522,
+  "name":"HH B103",
+  "picture":"images/4.jpeg",
+  "capacity":"101",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":523,
+  "name":"HH B131",
+  "picture":"images/10.jpeg",
+  "capacity":"98",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":524,
+  "name":"MI 328",
+  "picture":"images/9.jpeg",
+  "capacity":"53",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":525,
+  "name":"MI 348",
+  "picture":"images/8.jpeg",
+  "capacity":"80",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":526,
+  "name":"MI 355",
+  "picture":"images/10.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":527,
+  "name":"MI 411",
+  "picture":"images/4.jpeg",
+  "capacity":"25",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":528,
+  "name":"MI 416",
+  "picture":"images/4.jpeg",
+  "capacity":"12",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":529,
+  "name":"MI 434",
+  "picture":"images/4.jpeg",
+  "capacity":"15",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":530,
+  "name":"MI 448",
+  "picture":"images/8.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":531,
+  "name":"MI AUDITORIUM",
+  "picture":"images/10.jpeg",
+  "capacity":"348",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":532,
+  "name":"MI FIFTH AVE LOBBY",
+  "picture":"images/8.jpeg",
+  "capacity":"25",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":533,
+  "name":"MM 103",
+  "picture":"images/9.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":534,
+  "name":"MM A14",
+  "picture":"images/1.jpeg",
+  "capacity":"108",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":535,
+  "name":"PH 100",
+  "picture":"images/9.jpeg",
+  "capacity":"217",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":536,
+  "name":"PH 125B",
+  "picture":"images/1.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":537,
+  "name":"PH 125C",
+  "picture":"images/4.jpeg",
+  "capacity":"24",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":538,
+  "name":"PH 126A",
+  "picture":"images/4.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":539,
+  "name":"PH 225B",
+  "picture":"images/1.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":540,
+  "name":"PH 226A",
+  "picture":"images/4.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":541,
+  "name":"PH 226B",
+  "picture":"images/10.jpeg",
+  "capacity":"28",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":542,
+  "name":"PH 226C",
+  "picture":"images/8.jpeg",
+  "capacity":"28",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":543,
+  "name":"PH A18A",
+  "picture":"images/10.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":544,
+  "name":"PH A18B",
+  "picture":"images/10.jpeg",
+  "capacity":"38",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":545,
+  "name":"PH A18C",
+  "picture":"images/1.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":546,
+  "name":"PH A19",
+  "picture":"images/4.jpeg",
+  "capacity":"20",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":547,
+  "name":"PH A19A",
+  "picture":"images/1.jpeg",
+  "capacity":"20",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":548,
+  "name":"PH A19C",
+  "picture":"images/8.jpeg",
+  "capacity":"18",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":549,
+  "name":"PH A19D",
+  "picture":"images/8.jpeg",
+  "capacity":"18",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":550,
+  "name":"PH A20",
+  "picture":"images/4.jpeg",
+  "capacity":"12",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":551,
+  "name":"PH A20A",
+  "picture":"images/1.jpeg",
+  "capacity":"21",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":552,
+  "name":"PH A21",
+  "picture":"images/9.jpeg",
+  "capacity":"21",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":553,
+  "name":"PH A21A",
+  "picture":"images/1.jpeg",
+  "capacity":"21",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":554,
+  "name":"PH A22",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":555,
+  "name":"SH 125",
+  "picture":"images/1.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":556,
+  "name":"SH 208",
+  "picture":"images/1.jpeg",
+  "capacity":"30",
+  "floor":"Table Rows",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":557,
+  "name":"SH 212",
+  "picture":"images/10.jpeg",
+  "capacity":"20",
+  "floor":"Conference Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":558,
+  "name":"SH 214",
+  "picture":"images/9.jpeg",
+  "capacity":"45",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":559,
+  "name":"SH 219",
+  "picture":"images/1.jpeg",
+  "capacity":"45",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":560,
+  "name":"SH 220",
+  "picture":"images/8.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":561,
+  "name":"SH 222",
+  "picture":"images/4.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":562,
+  "name":"SIA CP AUD",
+  "picture":"images/9.jpeg",
+  "capacity":"74",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":563,
+  "name":"TEP - FITNESS TERRACE",
+  "picture":"images/4.jpeg",
+  "capacity":"50",
+  "floor":"Fitness Terrace",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":564,
+  "name":"TEP 1200",
+  "picture":"images/8.jpeg",
+  "capacity":"50",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":565,
+  "name":"TEP 1202",
+  "picture":"images/10.jpeg",
+  "capacity":"70",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":566,
+  "name":"TEP 1204",
+  "picture":"images/8.jpeg",
+  "capacity":"35",
+  "floor":"Reception",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":567,
+  "name":"TPR 2110",
+  "picture":"images/10.jpeg",
+  "capacity":"80",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":568,
+  "name":"TPR 2111",
+  "picture":"images/1.jpeg",
+  "capacity":"80",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":569,
+  "name":"TPR 2112",
+  "picture":"images/9.jpeg",
+  "capacity":"44",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":570,
+  "name":"TPR 2118",
+  "picture":"images/4.jpeg",
+  "capacity":"48",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":571,
+  "name":"TPR 2119",
+  "picture":"images/8.jpeg",
+  "capacity":"20",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":572,
+  "name":"TPR 2120",
+  "picture":"images/1.jpeg",
+  "capacity":"20",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":573,
+  "name":"TPR 2121",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":574,
+  "name":"TPR 2122",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":575,
+  "name":"TPR 2123",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":576,
+  "name":"TPR 2202",
+  "picture":"images/8.jpeg",
+  "capacity":"64",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":577,
+  "name":"TPR 2703",
+  "picture":"images/4.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":578,
+  "name":"TPR 2704",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":579,
+  "name":"TPR 2705",
+  "picture":"images/1.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":580,
+  "name":"TPR 3108",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":581,
+  "name":"TPR 3109",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":582,
+  "name":"TPR 3116",
+  "picture":"images/4.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":583,
+  "name":"TPR 3117",
+  "picture":"images/4.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":584,
+  "name":"TPR 3127",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":585,
+  "name":"TPR 3803",
+  "picture":"images/1.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":586,
+  "name":"TPR 3804",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":587,
+  "name":"TPR 3805",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":588,
+  "name":"TRP 2113",
+  "picture":"images/4.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":589,
+  "name":"TRP 2114",
+  "picture":"images/4.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":590,
+  "name":"TRP 2115",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":591,
+  "name":"TRP 2116",
+  "picture":"images/1.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":592,
+  "name":"TRP 2117",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":593,
+  "name":"WEH 4623",
+  "picture":"images/1.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":594,
+  "name":"WEH 4709",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":595,
+  "name":"WEH 5201",
+  "picture":"images/4.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":596,
+  "name":"WEH 5202",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":597,
+  "name":"WEH 5207",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":598,
+  "name":"WEH 5302",
+  "picture":"images/1.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":599,
+  "name":"WEH 5304",
+  "picture":"images/4.jpeg",
+  "capacity":"20",
+  "floor":"Hollow Square",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":600,
+  "name":"WEH 5310",
+  "picture":"images/4.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":601,
+  "name":"WEH 5312",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":602,
+  "name":"WEH 5316",
+  "picture":"images/10.jpeg",
+  "capacity":"20",
+  "floor":"Hollow Square",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":603,
+  "name":"WEH 5320",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":604,
+  "name":"WEH 5328",
+  "picture":"images/1.jpeg",
+  "capacity":"24",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":605,
+  "name":"WEH 5403",
+  "picture":"images/9.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":606,
+  "name":"WEH 5409",
+  "picture":"images/10.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":607,
+  "name":"WEH 5415",
+  "picture":"images/9.jpeg",
+  "capacity":"45",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":608,
+  "name":"WEH 5421",
+  "picture":"images/1.jpeg",
+  "capacity":"45",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":609,
+  "name":"WEH 6423",
+  "picture":"images/1.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":610,
+  "name":"WEH 7500",
+  "picture":"images/9.jpeg",
+  "capacity":"152",
+  "floor":"Lecture Hall",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":611,
+  "name":"WEH 8427",
+  "picture":"images/1.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"6-7 PM" 
+ },
+ {
+  "id":612,
+  "name":"BH 140C",
+  "picture":"images/6.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":613,
+  "name":"BH 140D",
+  "picture":"images/9.jpeg",
+  "capacity":"10",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":614,
+  "name":"BH 140E",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":615,
+  "name":"BH 140F",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":616,
+  "name":"BH 235A",
+  "picture":"images/7.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":617,
+  "name":"BH 235B",
+  "picture":"images/6.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":618,
+  "name":"BH 237B",
+  "picture":"images/6.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":619,
+  "name":"BH 255A",
+  "picture":"images/7.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":620,
+  "name":"CFA 317",
+  "picture":"images/6.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":621,
+  "name":"CFA 318",
+  "picture":"images/6.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":622,
+  "name":"CFA 321",
+  "picture":"images/10.jpeg",
+  "capacity":"5",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":623,
+  "name":"CFA 323",
+  "picture":"images/9.jpeg",
+  "capacity":"10",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":624,
+  "name":"CUC STUDY ROOM 01",
+  "picture":"images/6.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":625,
+  "name":"CUC STUDY ROOM 02",
+  "picture":"images/10.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":626,
+  "name":"CUC STUDY ROOM 03",
+  "picture":"images/7.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":627,
+  "name":"CUC STUDY ROOM 04",
+  "picture":"images/9.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":628,
+  "name":"CUC STUDY ROOM 05",
+  "picture":"images/6.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":629,
+  "name":"CUC STUDY ROOM 06",
+  "picture":"images/7.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":630,
+  "name":"CUC STUDY ROOM 07",
+  "picture":"images/7.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":631,
+  "name":"CUC STUDY ROOM 08",
+  "picture":"images/7.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":632,
+  "name":"CUC STUDY ROOM 09",
+  "picture":"images/9.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":633,
+  "name":"CUC STUDY ROOM 10",
+  "picture":"images/6.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":634,
+  "name":"CUC STUDY ROOM 11",
+  "picture":"images/10.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":635,
+  "name":"CUC STUDY ROOM 12",
+  "picture":"images/8.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":636,
+  "name":"CUC STUDY ROOM 13",
+  "picture":"images/6.jpeg",
+  "capacity":"4",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":637,
+  "name":"CUC STUDY ROOM 14",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":638,
+  "name":"CUC STUDY ROOM 15",
+  "picture":"images/7.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":639,
+  "name":"CUC STUDY ROOM 16",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":640,
+  "name":"CUC STUDY ROOM 17",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":641,
+  "name":"CUC STUDY ROOM 18",
+  "picture":"images/7.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":642,
+  "name":"CUC STUDY ROOM 19",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":643,
+  "name":"CUC STUDY ROOM 20",
+  "picture":"images/7.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":644,
+  "name":"CUC STUDY ROOM 21",
+  "picture":"images/7.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":645,
+  "name":"CUC STUDY ROOM 22",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":646,
+  "name":"CUC STUDY ROOM 23",
+  "picture":"images/8.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":647,
+  "name":"CUC STUDY ROOM 24",
+  "picture":"images/7.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":648,
+  "name":"CUC STUDY ROOM 25",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":649,
+  "name":"CUC STUDY ROOM 26",
+  "picture":"images/6.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":650,
+  "name":"CUC STUDY ROOM 27",
+  "picture":"images/9.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":651,
+  "name":"CUC STUDY ROOM 28",
+  "picture":"images/6.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":652,
+  "name":"CUC-ACTIVITIES ROOM",
+  "picture":"images/7.jpeg",
+  "capacity":"999",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":653,
+  "name":"CUC-C 87",
+  "picture":"images/10.jpeg",
+  "capacity":"16",
+  "floor":"Conference Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":654,
+  "name":"CUC-CAFFEE",
+  "picture":"images/6.jpeg",
+  "capacity":"12",
+  "floor":"Conference Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":655,
+  "name":"CUC-CHAPEL",
+  "picture":"images/9.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":656,
+  "name":"CUC-CONNAN",
+  "picture":"images/8.jpeg",
+  "capacity":"144",
+  "floor":"Auditorium Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":657,
+  "name":"CUC-DANFORTH",
+  "picture":"images/7.jpeg",
+  "capacity":"70",
+  "floor":"Auditorium Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":658,
+  "name":"CUC-DANFORTH LOUNGE",
+  "picture":"images/9.jpeg",
+  "capacity":"32",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":659,
+  "name":"CUC-DISPLAY CASE 1 FL",
+  "picture":"images/8.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":660,
+  "name":"CUC-DISPLAY CASE LL",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":661,
+  "name":"CUC-DOWD",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":662,
+  "name":"CUC-MCCONOMY",
+  "picture":"images/8.jpeg",
+  "capacity":"450",
+  "floor":"Auditorium Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":663,
+  "name":"CUC-MCKENNA",
+  "picture":"images/10.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":664,
+  "name":"CUC-PAKE",
+  "picture":"images/6.jpeg",
+  "capacity":"16",
+  "floor":"Conference Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":665,
+  "name":"CUC-PETER",
+  "picture":"images/6.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":666,
+  "name":"CUC-RANGOS 1",
+  "picture":"images/8.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":667,
+  "name":"CUC-RANGOS 2",
+  "picture":"images/7.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":668,
+  "name":"CUC-RANGOS 3",
+  "picture":"images/7.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":669,
+  "name":"CUC-WEAN COMMONS 1",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":670,
+  "name":"CUC-WEAN COMMONS 2",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":671,
+  "name":"CUC-WEAN COMMONS 3",
+  "picture":"images/6.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":672,
+  "name":"CUC-WEAN COMMONS 4",
+  "picture":"images/8.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":673,
+  "name":"CUC-WEAN COMMONS 5",
+  "picture":"images/8.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":674,
+  "name":"CUC-WEAN COMMONS 6",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":675,
+  "name":"CUC-WIEGAND GYM",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":676,
+  "name":"CUC-WRIGHT",
+  "picture":"images/9.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":677,
+  "name":"CYH 100A",
+  "picture":"images/7.jpeg",
+  "capacity":"26",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":678,
+  "name":"CYH 100D",
+  "picture":"images/9.jpeg",
+  "capacity":"17",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":679,
+  "name":"DH 1112",
+  "picture":"images/6.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":680,
+  "name":"DH 1117",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":681,
+  "name":"DH 1209",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":682,
+  "name":"DH 1211",
+  "picture":"images/9.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":683,
+  "name":"DH 1212",
+  "picture":"images/7.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":684,
+  "name":"DH 1217",
+  "picture":"images/7.jpeg",
+  "capacity":"0",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":685,
+  "name":"DH 2105",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":686,
+  "name":"DH 2122",
+  "picture":"images/6.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":687,
+  "name":"DH 2210",
+  "picture":"images/10.jpeg",
+  "capacity":"289",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":688,
+  "name":"DH 2315",
+  "picture":"images/9.jpeg",
+  "capacity":"266",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":689,
+  "name":"DH A302",
+  "picture":"images/9.jpeg",
+  "capacity":"132",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":690,
+  "name":"GHC 4101",
+  "picture":"images/9.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":691,
+  "name":"GHC 4102",
+  "picture":"images/6.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":692,
+  "name":"GHC 4211",
+  "picture":"images/9.jpeg",
+  "capacity":"42",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":693,
+  "name":"GHC 4215",
+  "picture":"images/9.jpeg",
+  "capacity":"58",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":694,
+  "name":"GHC 4301",
+  "picture":"images/6.jpeg",
+  "capacity":"28",
+  "floor":"Table Rows",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":695,
+  "name":"GHC 4307",
+  "picture":"images/10.jpeg",
+  "capacity":"75",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":696,
+  "name":"GHC 5222",
+  "picture":"images/9.jpeg",
+  "capacity":"38",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":697,
+  "name":"HBH 1002",
+  "picture":"images/10.jpeg",
+  "capacity":"64",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":698,
+  "name":"HBH 1004",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Table Rows",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":699,
+  "name":"HBH 1005",
+  "picture":"images/10.jpeg",
+  "capacity":"46",
+  "floor":"Table Rows",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":700,
+  "name":"HBH 1006",
+  "picture":"images/8.jpeg",
+  "capacity":"40",
+  "floor":"Table Rows",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":701,
+  "name":"HBH 1007",
+  "picture":"images/9.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":702,
+  "name":"HBH 1107",
+  "picture":"images/9.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":703,
+  "name":"HBH 1111",
+  "picture":"images/10.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":704,
+  "name":"HBH 1202",
+  "picture":"images/6.jpeg",
+  "capacity":"50",
+  "floor":"Table Rows",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":705,
+  "name":"HBH 1204",
+  "picture":"images/10.jpeg",
+  "capacity":"60",
+  "floor":"Table Rows",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":706,
+  "name":"HBH 1206",
+  "picture":"images/6.jpeg",
+  "capacity":"60",
+  "floor":"Classroom,",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":707,
+  "name":"HBH 1206",
+  "picture":"images/10.jpeg",
+  "capacity":"60",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":708,
+  "name":"HBH 1208",
+  "picture":"images/7.jpeg",
+  "capacity":"24",
+  "floor":"Classroom,",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":709,
+  "name":"HBH 1208",
+  "picture":"images/10.jpeg",
+  "capacity":"24",
+  "floor":"Rows Of Chairs",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":710,
+  "name":"HBH 2003",
+  "picture":"images/8.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":711,
+  "name":"HBH 2008",
+  "picture":"images/6.jpeg",
+  "capacity":"40",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":712,
+  "name":"HBH 2009",
+  "picture":"images/6.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":713,
+  "name":"HBH 2011",
+  "picture":"images/8.jpeg",
+  "capacity":"18",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":714,
+  "name":"HBH 2108",
+  "picture":"images/8.jpeg",
+  "capacity":"16",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":715,
+  "name":"HBH A007A",
+  "picture":"images/8.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":716,
+  "name":"HBH A007B",
+  "picture":"images/8.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":717,
+  "name":"HBH A007C",
+  "picture":"images/9.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":718,
+  "name":"HBH A007D",
+  "picture":"images/10.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":719,
+  "name":"HBH A007E",
+  "picture":"images/9.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":720,
+  "name":"HBH A007F",
+  "picture":"images/7.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":721,
+  "name":"HBH A007G",
+  "picture":"images/8.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":722,
+  "name":"HBH A007H",
+  "picture":"images/6.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":723,
+  "name":"HBH A007J",
+  "picture":"images/8.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":724,
+  "name":"HBH A119",
+  "picture":"images/7.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":725,
+  "name":"HBH A301",
+  "picture":"images/9.jpeg",
+  "capacity":"150",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":726,
+  "name":"HH B103",
+  "picture":"images/10.jpeg",
+  "capacity":"101",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":727,
+  "name":"HH B131",
+  "picture":"images/10.jpeg",
+  "capacity":"98",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":728,
+  "name":"MI 328",
+  "picture":"images/10.jpeg",
+  "capacity":"53",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":729,
+  "name":"MI 348",
+  "picture":"images/9.jpeg",
+  "capacity":"80",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":730,
+  "name":"MI 355",
+  "picture":"images/9.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":731,
+  "name":"MI 411",
+  "picture":"images/8.jpeg",
+  "capacity":"25",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":732,
+  "name":"MI 416",
+  "picture":"images/7.jpeg",
+  "capacity":"12",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":733,
+  "name":"MI 434",
+  "picture":"images/9.jpeg",
+  "capacity":"15",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":734,
+  "name":"MI 448",
+  "picture":"images/8.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":735,
+  "name":"MI AUDITORIUM",
+  "picture":"images/6.jpeg",
+  "capacity":"348",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":736,
+  "name":"MI FIFTH AVE LOBBY",
+  "picture":"images/7.jpeg",
+  "capacity":"25",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":737,
+  "name":"MM 103",
+  "picture":"images/9.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":738,
+  "name":"MM A14",
+  "picture":"images/7.jpeg",
+  "capacity":"108",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":739,
+  "name":"PH 100",
+  "picture":"images/7.jpeg",
+  "capacity":"217",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":740,
+  "name":"PH 125B",
+  "picture":"images/6.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":741,
+  "name":"PH 125C",
+  "picture":"images/8.jpeg",
+  "capacity":"24",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":742,
+  "name":"PH 126A",
+  "picture":"images/7.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":743,
+  "name":"PH 225B",
+  "picture":"images/7.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":744,
+  "name":"PH 226A",
+  "picture":"images/9.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":745,
+  "name":"PH 226B",
+  "picture":"images/9.jpeg",
+  "capacity":"28",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":746,
+  "name":"PH 226C",
+  "picture":"images/8.jpeg",
+  "capacity":"28",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":747,
+  "name":"PH A18A",
+  "picture":"images/7.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":748,
+  "name":"PH A18B",
+  "picture":"images/10.jpeg",
+  "capacity":"38",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":749,
+  "name":"PH A18C",
+  "picture":"images/7.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":750,
+  "name":"PH A19",
+  "picture":"images/10.jpeg",
+  "capacity":"20",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":751,
+  "name":"PH A19A",
+  "picture":"images/9.jpeg",
+  "capacity":"20",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":752,
+  "name":"PH A19C",
+  "picture":"images/6.jpeg",
+  "capacity":"18",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":753,
+  "name":"PH A19D",
+  "picture":"images/7.jpeg",
+  "capacity":"18",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":754,
+  "name":"PH A20",
+  "picture":"images/6.jpeg",
+  "capacity":"12",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":755,
+  "name":"PH A20A",
+  "picture":"images/8.jpeg",
+  "capacity":"21",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":756,
+  "name":"PH A21",
+  "picture":"images/7.jpeg",
+  "capacity":"21",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":757,
+  "name":"PH A21A",
+  "picture":"images/8.jpeg",
+  "capacity":"21",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":758,
+  "name":"PH A22",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":759,
+  "name":"SH 125",
+  "picture":"images/9.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":760,
+  "name":"SH 208",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Table Rows",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":761,
+  "name":"SH 212",
+  "picture":"images/7.jpeg",
+  "capacity":"20",
+  "floor":"Conference Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":762,
+  "name":"SH 214",
+  "picture":"images/10.jpeg",
+  "capacity":"45",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":763,
+  "name":"SH 219",
+  "picture":"images/8.jpeg",
+  "capacity":"45",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":764,
+  "name":"SH 220",
+  "picture":"images/6.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":765,
+  "name":"SH 222",
+  "picture":"images/9.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":766,
+  "name":"SIA CP AUD",
+  "picture":"images/7.jpeg",
+  "capacity":"74",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":767,
+  "name":"TEP - FITNESS TERRACE",
+  "picture":"images/6.jpeg",
+  "capacity":"50",
+  "floor":"Fitness Terrace",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":768,
+  "name":"TEP 1200",
+  "picture":"images/8.jpeg",
+  "capacity":"50",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":769,
+  "name":"TEP 1202",
+  "picture":"images/9.jpeg",
+  "capacity":"70",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":770,
+  "name":"TEP 1204",
+  "picture":"images/6.jpeg",
+  "capacity":"35",
+  "floor":"Reception",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":771,
+  "name":"TPR 2110",
+  "picture":"images/6.jpeg",
+  "capacity":"80",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":772,
+  "name":"TPR 2111",
+  "picture":"images/8.jpeg",
+  "capacity":"80",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":773,
+  "name":"TPR 2112",
+  "picture":"images/6.jpeg",
+  "capacity":"44",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":774,
+  "name":"TPR 2118",
+  "picture":"images/10.jpeg",
+  "capacity":"48",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":775,
+  "name":"TPR 2119",
+  "picture":"images/6.jpeg",
+  "capacity":"20",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":776,
+  "name":"TPR 2120",
+  "picture":"images/8.jpeg",
+  "capacity":"20",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":777,
+  "name":"TPR 2121",
+  "picture":"images/8.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":778,
+  "name":"TPR 2122",
+  "picture":"images/7.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":779,
+  "name":"TPR 2123",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":780,
+  "name":"TPR 2202",
+  "picture":"images/9.jpeg",
+  "capacity":"64",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":781,
+  "name":"TPR 2703",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":782,
+  "name":"TPR 2704",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":783,
+  "name":"TPR 2705",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":784,
+  "name":"TPR 3108",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":785,
+  "name":"TPR 3109",
+  "picture":"images/8.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":786,
+  "name":"TPR 3116",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":787,
+  "name":"TPR 3117",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":788,
+  "name":"TPR 3127",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":789,
+  "name":"TPR 3803",
+  "picture":"images/8.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":790,
+  "name":"TPR 3804",
+  "picture":"images/8.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":791,
+  "name":"TPR 3805",
+  "picture":"images/8.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":792,
+  "name":"TRP 2113",
+  "picture":"images/8.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":793,
+  "name":"TRP 2114",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":794,
+  "name":"TRP 2115",
+  "picture":"images/6.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":795,
+  "name":"TRP 2116",
+  "picture":"images/6.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":796,
+  "name":"TRP 2117",
+  "picture":"images/6.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":797,
+  "name":"WEH 4623",
+  "picture":"images/9.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":798,
+  "name":"WEH 4709",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":799,
+  "name":"WEH 5201",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":800,
+  "name":"WEH 5202",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":801,
+  "name":"WEH 5207",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":802,
+  "name":"WEH 5302",
+  "picture":"images/7.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":803,
+  "name":"WEH 5304",
+  "picture":"images/8.jpeg",
+  "capacity":"20",
+  "floor":"Hollow Square",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":804,
+  "name":"WEH 5310",
+  "picture":"images/6.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":805,
+  "name":"WEH 5312",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":806,
+  "name":"WEH 5316",
+  "picture":"images/6.jpeg",
+  "capacity":"20",
+  "floor":"Hollow Square",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":807,
+  "name":"WEH 5320",
+  "picture":"images/8.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":808,
+  "name":"WEH 5328",
+  "picture":"images/9.jpeg",
+  "capacity":"24",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":809,
+  "name":"WEH 5403",
+  "picture":"images/7.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":810,
+  "name":"WEH 5409",
+  "picture":"images/8.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":811,
+  "name":"WEH 5415",
+  "picture":"images/6.jpeg",
+  "capacity":"45",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":812,
+  "name":"WEH 5421",
+  "picture":"images/8.jpeg",
+  "capacity":"45",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":813,
+  "name":"WEH 6423",
+  "picture":"images/10.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":814,
+  "name":"WEH 7500",
+  "picture":"images/10.jpeg",
+  "capacity":"152",
+  "floor":"Lecture Hall",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":815,
+  "name":"WEH 8427",
+  "picture":"images/10.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"7-8 PM" 
+ },
+ {
+  "id":816,
+  "name":"BH 140C",
+  "picture":"images/9.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":817,
+  "name":"BH 140D",
+  "picture":"images/7.jpeg",
+  "capacity":"10",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":818,
+  "name":"BH 140E",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":819,
+  "name":"BH 140F",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":820,
+  "name":"BH 235A",
+  "picture":"images/7.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":821,
+  "name":"BH 235B",
+  "picture":"images/2.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":822,
+  "name":"BH 237B",
+  "picture":"images/5.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":823,
+  "name":"BH 255A",
+  "picture":"images/9.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":824,
+  "name":"CFA 317",
+  "picture":"images/2.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":825,
+  "name":"CFA 318",
+  "picture":"images/2.jpeg",
+  "capacity":"20",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":826,
+  "name":"CFA 321",
+  "picture":"images/5.jpeg",
+  "capacity":"5",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":827,
+  "name":"CFA 323",
+  "picture":"images/5.jpeg",
+  "capacity":"10",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":828,
+  "name":"CUC STUDY ROOM 01",
+  "picture":"images/5.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":829,
+  "name":"CUC STUDY ROOM 02",
+  "picture":"images/5.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":830,
+  "name":"CUC STUDY ROOM 03",
+  "picture":"images/9.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":831,
+  "name":"CUC STUDY ROOM 04",
+  "picture":"images/7.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":832,
+  "name":"CUC STUDY ROOM 05",
+  "picture":"images/5.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":833,
+  "name":"CUC STUDY ROOM 06",
+  "picture":"images/9.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":834,
+  "name":"CUC STUDY ROOM 07",
+  "picture":"images/5.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":835,
+  "name":"CUC STUDY ROOM 08",
+  "picture":"images/2.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":836,
+  "name":"CUC STUDY ROOM 09",
+  "picture":"images/9.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":837,
+  "name":"CUC STUDY ROOM 10",
+  "picture":"images/9.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":838,
+  "name":"CUC STUDY ROOM 11",
+  "picture":"images/7.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":839,
+  "name":"CUC STUDY ROOM 12",
+  "picture":"images/5.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":840,
+  "name":"CUC STUDY ROOM 13",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":841,
+  "name":"CUC STUDY ROOM 14",
+  "picture":"images/2.jpeg",
+  "capacity":"4",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":842,
+  "name":"CUC STUDY ROOM 15",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":843,
+  "name":"CUC STUDY ROOM 16",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":844,
+  "name":"CUC STUDY ROOM 17",
+  "picture":"images/2.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":845,
+  "name":"CUC STUDY ROOM 18",
+  "picture":"images/2.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":846,
+  "name":"CUC STUDY ROOM 19",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":847,
+  "name":"CUC STUDY ROOM 20",
+  "picture":"images/2.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":848,
+  "name":"CUC STUDY ROOM 21",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":849,
+  "name":"CUC STUDY ROOM 22",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":850,
+  "name":"CUC STUDY ROOM 23",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":851,
+  "name":"CUC STUDY ROOM 24",
+  "picture":"images/7.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":852,
+  "name":"CUC STUDY ROOM 25",
+  "picture":"images/5.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":853,
+  "name":"CUC STUDY ROOM 26",
+  "picture":"images/7.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":854,
+  "name":"CUC STUDY ROOM 27",
+  "picture":"images/9.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":855,
+  "name":"CUC STUDY ROOM 28",
+  "picture":"images/10.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":856,
+  "name":"CUC-ACTIVITIES ROOM",
+  "picture":"images/9.jpeg",
+  "capacity":"999",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":857,
+  "name":"CUC-C 87",
+  "picture":"images/10.jpeg",
+  "capacity":"16",
+  "floor":"Conference Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":858,
+  "name":"CUC-CAFFEE",
+  "picture":"images/9.jpeg",
+  "capacity":"12",
+  "floor":"Conference Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":859,
+  "name":"CUC-CHAPEL",
+  "picture":"images/10.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":860,
+  "name":"CUC-CONNAN",
+  "picture":"images/2.jpeg",
+  "capacity":"144",
+  "floor":"Auditorium Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":861,
+  "name":"CUC-DANFORTH",
+  "picture":"images/10.jpeg",
+  "capacity":"70",
+  "floor":"Auditorium Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":862,
+  "name":"CUC-DANFORTH LOUNGE",
+  "picture":"images/7.jpeg",
+  "capacity":"32",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":863,
+  "name":"CUC-DISPLAY CASE 1 FL",
+  "picture":"images/9.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":864,
+  "name":"CUC-DISPLAY CASE LL",
+  "picture":"images/7.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":865,
+  "name":"CUC-DOWD",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":866,
+  "name":"CUC-MCCONOMY",
+  "picture":"images/10.jpeg",
+  "capacity":"450",
+  "floor":"Auditorium Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":867,
+  "name":"CUC-MCKENNA",
+  "picture":"images/5.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":868,
+  "name":"CUC-PAKE",
+  "picture":"images/5.jpeg",
+  "capacity":"16",
+  "floor":"Conference Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":869,
+  "name":"CUC-PETER",
+  "picture":"images/2.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":870,
+  "name":"CUC-RANGOS 1",
+  "picture":"images/2.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":871,
+  "name":"CUC-RANGOS 2",
+  "picture":"images/10.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":872,
+  "name":"CUC-RANGOS 3",
+  "picture":"images/9.jpeg",
+  "capacity":"150",
+  "floor":"Auditorium Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":873,
+  "name":"CUC-WEAN COMMONS 1",
+  "picture":"images/10.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":874,
+  "name":"CUC-WEAN COMMONS 2",
+  "picture":"images/7.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":875,
+  "name":"CUC-WEAN COMMONS 3",
+  "picture":"images/9.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":876,
+  "name":"CUC-WEAN COMMONS 4",
+  "picture":"images/5.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":877,
+  "name":"CUC-WEAN COMMONS 5",
+  "picture":"images/7.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":878,
+  "name":"CUC-WEAN COMMONS 6",
+  "picture":"images/9.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":879,
+  "name":"CUC-WIEGAND GYM",
+  "picture":"images/5.jpeg",
+  "capacity":"999",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":880,
+  "name":"CUC-WRIGHT",
+  "picture":"images/10.jpeg",
+  "capacity":"35",
+  "floor":"Auditorium Style",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":881,
+  "name":"CYH 100A",
+  "picture":"images/7.jpeg",
+  "capacity":"26",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":882,
+  "name":"CYH 100D",
+  "picture":"images/10.jpeg",
+  "capacity":"17",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":883,
+  "name":"DH 1112",
+  "picture":"images/7.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":884,
+  "name":"DH 1117",
+  "picture":"images/2.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":885,
+  "name":"DH 1209",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":886,
+  "name":"DH 1211",
+  "picture":"images/5.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":887,
+  "name":"DH 1212",
+  "picture":"images/10.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":888,
+  "name":"DH 1217",
+  "picture":"images/10.jpeg",
+  "capacity":"0",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":889,
+  "name":"DH 2105",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":890,
+  "name":"DH 2122",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":891,
+  "name":"DH 2210",
+  "picture":"images/2.jpeg",
+  "capacity":"289",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":892,
+  "name":"DH 2315",
+  "picture":"images/2.jpeg",
+  "capacity":"266",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":893,
+  "name":"DH A302",
+  "picture":"images/5.jpeg",
+  "capacity":"132",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":894,
+  "name":"GHC 4101",
+  "picture":"images/7.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":895,
+  "name":"GHC 4102",
+  "picture":"images/7.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":896,
+  "name":"GHC 4211",
+  "picture":"images/2.jpeg",
+  "capacity":"42",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":897,
+  "name":"GHC 4215",
+  "picture":"images/9.jpeg",
+  "capacity":"58",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":898,
+  "name":"GHC 4301",
+  "picture":"images/9.jpeg",
+  "capacity":"28",
+  "floor":"Table Rows",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":899,
+  "name":"GHC 4307",
+  "picture":"images/9.jpeg",
+  "capacity":"75",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":900,
+  "name":"GHC 5222",
+  "picture":"images/2.jpeg",
+  "capacity":"38",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":901,
+  "name":"HBH 1002",
+  "picture":"images/9.jpeg",
+  "capacity":"64",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":902,
+  "name":"HBH 1004",
+  "picture":"images/9.jpeg",
+  "capacity":"30",
+  "floor":"Table Rows",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":903,
+  "name":"HBH 1005",
+  "picture":"images/2.jpeg",
+  "capacity":"46",
+  "floor":"Table Rows",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":904,
+  "name":"HBH 1006",
+  "picture":"images/10.jpeg",
+  "capacity":"40",
+  "floor":"Table Rows",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":905,
+  "name":"HBH 1007",
+  "picture":"images/7.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":906,
+  "name":"HBH 1107",
+  "picture":"images/2.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":907,
+  "name":"HBH 1111",
+  "picture":"images/9.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":908,
+  "name":"HBH 1202",
+  "picture":"images/9.jpeg",
+  "capacity":"50",
+  "floor":"Table Rows",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":909,
+  "name":"HBH 1204",
+  "picture":"images/5.jpeg",
+  "capacity":"60",
+  "floor":"Table Rows",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":910,
+  "name":"HBH 1206",
+  "picture":"images/5.jpeg",
+  "capacity":"60",
+  "floor":"Classroom,",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":911,
+  "name":"HBH 1206",
+  "picture":"images/5.jpeg",
+  "capacity":"60",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":912,
+  "name":"HBH 1208",
+  "picture":"images/10.jpeg",
+  "capacity":"24",
+  "floor":"Classroom,",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":913,
+  "name":"HBH 1208",
+  "picture":"images/9.jpeg",
+  "capacity":"24",
+  "floor":"Rows Of Chairs",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":914,
+  "name":"HBH 2003",
+  "picture":"images/9.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":915,
+  "name":"HBH 2008",
+  "picture":"images/2.jpeg",
+  "capacity":"40",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":916,
+  "name":"HBH 2009",
+  "picture":"images/2.jpeg",
+  "capacity":"35",
+  "floor":"Table Rows",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":917,
+  "name":"HBH 2011",
+  "picture":"images/9.jpeg",
+  "capacity":"18",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":918,
+  "name":"HBH 2108",
+  "picture":"images/10.jpeg",
+  "capacity":"16",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":919,
+  "name":"HBH A007A",
+  "picture":"images/10.jpeg",
+  "capacity":"3",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":920,
+  "name":"HBH A007B",
+  "picture":"images/5.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":921,
+  "name":"HBH A007C",
+  "picture":"images/9.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":922,
+  "name":"HBH A007D",
+  "picture":"images/9.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":923,
+  "name":"HBH A007E",
+  "picture":"images/2.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":924,
+  "name":"HBH A007F",
+  "picture":"images/9.jpeg",
+  "capacity":"8",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":925,
+  "name":"HBH A007G",
+  "picture":"images/2.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":926,
+  "name":"HBH A007H",
+  "picture":"images/7.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":927,
+  "name":"HBH A007J",
+  "picture":"images/7.jpeg",
+  "capacity":"6",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":928,
+  "name":"HBH A119",
+  "picture":"images/7.jpeg",
+  "capacity":"2",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":929,
+  "name":"HBH A301",
+  "picture":"images/2.jpeg",
+  "capacity":"150",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":930,
+  "name":"HH B103",
+  "picture":"images/10.jpeg",
+  "capacity":"101",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":931,
+  "name":"HH B131",
+  "picture":"images/7.jpeg",
+  "capacity":"98",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":932,
+  "name":"MI 328",
+  "picture":"images/5.jpeg",
+  "capacity":"53",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":933,
+  "name":"MI 348",
+  "picture":"images/7.jpeg",
+  "capacity":"80",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":934,
+  "name":"MI 355",
+  "picture":"images/10.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":935,
+  "name":"MI 411",
+  "picture":"images/10.jpeg",
+  "capacity":"25",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":936,
+  "name":"MI 416",
+  "picture":"images/10.jpeg",
+  "capacity":"12",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":937,
+  "name":"MI 434",
+  "picture":"images/2.jpeg",
+  "capacity":"15",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":938,
+  "name":"MI 448",
+  "picture":"images/10.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":939,
+  "name":"MI AUDITORIUM",
+  "picture":"images/2.jpeg",
+  "capacity":"348",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":940,
+  "name":"MI FIFTH AVE LOBBY",
+  "picture":"images/10.jpeg",
+  "capacity":"25",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":941,
+  "name":"MM 103",
+  "picture":"images/10.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":942,
+  "name":"MM A14",
+  "picture":"images/5.jpeg",
+  "capacity":"108",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":943,
+  "name":"PH 100",
+  "picture":"images/10.jpeg",
+  "capacity":"217",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":944,
+  "name":"PH 125B",
+  "picture":"images/10.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":945,
+  "name":"PH 125C",
+  "picture":"images/9.jpeg",
+  "capacity":"24",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":946,
+  "name":"PH 126A",
+  "picture":"images/2.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":947,
+  "name":"PH 225B",
+  "picture":"images/2.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":948,
+  "name":"PH 226A",
+  "picture":"images/7.jpeg",
+  "capacity":"26",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":949,
+  "name":"PH 226B",
+  "picture":"images/5.jpeg",
+  "capacity":"28",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":950,
+  "name":"PH 226C",
+  "picture":"images/10.jpeg",
+  "capacity":"28",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":951,
+  "name":"PH A18A",
+  "picture":"images/5.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":952,
+  "name":"PH A18B",
+  "picture":"images/2.jpeg",
+  "capacity":"38",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":953,
+  "name":"PH A18C",
+  "picture":"images/9.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":954,
+  "name":"PH A19",
+  "picture":"images/9.jpeg",
+  "capacity":"20",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":955,
+  "name":"PH A19A",
+  "picture":"images/9.jpeg",
+  "capacity":"20",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":956,
+  "name":"PH A19C",
+  "picture":"images/2.jpeg",
+  "capacity":"18",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":957,
+  "name":"PH A19D",
+  "picture":"images/7.jpeg",
+  "capacity":"18",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":958,
+  "name":"PH A20",
+  "picture":"images/2.jpeg",
+  "capacity":"12",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":959,
+  "name":"PH A20A",
+  "picture":"images/10.jpeg",
+  "capacity":"21",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":960,
+  "name":"PH A21",
+  "picture":"images/7.jpeg",
+  "capacity":"21",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":961,
+  "name":"PH A21A",
+  "picture":"images/7.jpeg",
+  "capacity":"21",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":962,
+  "name":"PH A22",
+  "picture":"images/5.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":963,
+  "name":"SH 125",
+  "picture":"images/2.jpeg",
+  "capacity":"96",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":964,
+  "name":"SH 208",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Table Rows",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":965,
+  "name":"SH 212",
+  "picture":"images/10.jpeg",
+  "capacity":"20",
+  "floor":"Conference Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":966,
+  "name":"SH 214",
+  "picture":"images/9.jpeg",
+  "capacity":"45",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":967,
+  "name":"SH 219",
+  "picture":"images/5.jpeg",
+  "capacity":"45",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":968,
+  "name":"SH 220",
+  "picture":"images/5.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":969,
+  "name":"SH 222",
+  "picture":"images/10.jpeg",
+  "capacity":"35",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":970,
+  "name":"SIA CP AUD",
+  "picture":"images/5.jpeg",
+  "capacity":"74",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":971,
+  "name":"TEP - FITNESS TERRACE",
+  "picture":"images/7.jpeg",
+  "capacity":"50",
+  "floor":"Fitness Terrace",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":972,
+  "name":"TEP 1200",
+  "picture":"images/7.jpeg",
+  "capacity":"50",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":973,
+  "name":"TEP 1202",
+  "picture":"images/5.jpeg",
+  "capacity":"70",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":974,
+  "name":"TEP 1204",
+  "picture":"images/2.jpeg",
+  "capacity":"35",
+  "floor":"Reception",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":975,
+  "name":"TPR 2110",
+  "picture":"images/10.jpeg",
+  "capacity":"80",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":976,
+  "name":"TPR 2111",
+  "picture":"images/7.jpeg",
+  "capacity":"80",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":977,
+  "name":"TPR 2112",
+  "picture":"images/9.jpeg",
+  "capacity":"44",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":978,
+  "name":"TPR 2118",
+  "picture":"images/7.jpeg",
+  "capacity":"48",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":979,
+  "name":"TPR 2119",
+  "picture":"images/10.jpeg",
+  "capacity":"20",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":980,
+  "name":"TPR 2120",
+  "picture":"images/7.jpeg",
+  "capacity":"20",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":981,
+  "name":"TPR 2121",
+  "picture":"images/7.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":982,
+  "name":"TPR 2122",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":983,
+  "name":"TPR 2123",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":984,
+  "name":"TPR 2202",
+  "picture":"images/10.jpeg",
+  "capacity":"64",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":985,
+  "name":"TPR 2703",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":986,
+  "name":"TPR 2704",
+  "picture":"images/7.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":987,
+  "name":"TPR 2705",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":988,
+  "name":"TPR 3108",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":989,
+  "name":"TPR 3109",
+  "picture":"images/2.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":990,
+  "name":"TPR 3116",
+  "picture":"images/7.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":991,
+  "name":"TPR 3117",
+  "picture":"images/2.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":992,
+  "name":"TPR 3127",
+  "picture":"images/10.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":993,
+  "name":"TPR 3803",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":994,
+  "name":"TPR 3804",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":995,
+  "name":"TPR 3805",
+  "picture":"images/5.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":996,
+  "name":"TRP 2113",
+  "picture":"images/9.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":997,
+  "name":"TRP 2114",
+  "picture":"images/7.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":998,
+  "name":"TRP 2115",
+  "picture":"images/7.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":999,
+  "name":"TRP 2116",
+  "picture":"images/2.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1000,
+  "name":"TRP 2117",
+  "picture":"images/7.jpeg",
+  "capacity":"4",
+  "floor":"Breakout Room",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1001,
+  "name":"WEH 4623",
+  "picture":"images/5.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1002,
+  "name":"WEH 4709",
+  "picture":"images/2.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1003,
+  "name":"WEH 5201",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1004,
+  "name":"WEH 5202",
+  "picture":"images/2.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1005,
+  "name":"WEH 5207",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Computer Lab",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1006,
+  "name":"WEH 5302",
+  "picture":"images/10.jpeg",
+  "capacity":"40",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1007,
+  "name":"WEH 5304",
+  "picture":"images/10.jpeg",
+  "capacity":"20",
+  "floor":"Hollow Square",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1008,
+  "name":"WEH 5310",
+  "picture":"images/5.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1009,
+  "name":"WEH 5312",
+  "picture":"images/7.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1010,
+  "name":"WEH 5316",
+  "picture":"images/2.jpeg",
+  "capacity":"20",
+  "floor":"Hollow Square",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1011,
+  "name":"WEH 5320",
+  "picture":"images/10.jpeg",
+  "capacity":"30",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1012,
+  "name":"WEH 5328",
+  "picture":"images/9.jpeg",
+  "capacity":"24",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1013,
+  "name":"WEH 5403",
+  "picture":"images/7.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1014,
+  "name":"WEH 5409",
+  "picture":"images/2.jpeg",
+  "capacity":"48",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1015,
+  "name":"WEH 5415",
+  "picture":"images/10.jpeg",
+  "capacity":"45",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1016,
+  "name":"WEH 5421",
+  "picture":"images/2.jpeg",
+  "capacity":"45",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1017,
+  "name":"WEH 6423",
+  "picture":"images/7.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1018,
+  "name":"WEH 7500",
+  "picture":"images/9.jpeg",
+  "capacity":"152",
+  "floor":"Lecture Hall",
+  "time":"8-9 PM" 
+ },
+ {
+  "id":1019,
+  "name":"WEH 8427",
+  "picture":"images/5.jpeg",
+  "capacity":"25",
+  "floor":"Classroom",
+  "time":"8-9 PM" 
+ }
+
+]
